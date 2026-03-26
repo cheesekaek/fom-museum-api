@@ -1,0 +1,61 @@
+import requests
+from bs4 import BeautifulSoup
+
+from expand import expand_table
+
+def scrape_fw():
+    # fish wing url scraper
+    url = "https://fieldsofmistria.wiki.gg/wiki/Fish_Wing"
+
+    res = requests.get(url)
+    soup = BeautifulSoup(res.text, 'html.parser')
+
+
+    # sets
+    # format {
+    #           set name: [
+    #              { name: ,
+    #                img_url: ,
+    #                loc: ,
+    #                weather: ,
+    #                rarity: ,
+    #                size: ,
+    #                completed: False
+    #              }
+    #           ], /.../
+    #        }
+
+    sets = {}
+    for span in soup.find_all("span", class_="mw-headline"):
+        if span.parent.name == "h3":
+            set_name = span.get_text().strip() # set_name : key for set
+            set_table = span.find_next("table") # set_table : val for set
+
+            if set_table:
+                grid = expand_table(set_table) # 2d grid
+
+                rows = [] # list of rows in each set
+                for row in grid[1:]: # cols in each row : name, img_url, location, weather, rarity, size, completed
+
+                    link_tag = row[0].find("a")
+                    name = link_tag.get("title")
+                    img_tag = link_tag.find("img")
+                    img_url = "https://fieldsofmistria.wiki.gg" + img_tag.get("src") # to account for lazy loading
+
+                    location = row[2].get_text(strip=True)
+                    weather = row[3].get_text(strip=True)
+                    rarity = row[4].get_text(strip=True)
+                    size = row[5].get_text(strip=True)
+
+                    rows.append({
+                        "name": name,
+                        "img_url": img_url,
+                        "location": location,
+                        "weather": weather,
+                        "rarity": rarity,
+                        "size": size,
+                        "completed": False # default
+                    })
+
+                sets[set_name] = rows
+    return sets
