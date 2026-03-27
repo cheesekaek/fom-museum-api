@@ -4,7 +4,7 @@ A Python scraper and API for [Fields of Mistria](https://fieldsofmistria.wiki.gg
 
 ---
 
-## Project Structure
+## Project Structure ＼(ﾟｰﾟ＼)
 ```
 fom-museum-api/
 │
@@ -16,7 +16,7 @@ fom-museum-api/
 ```
 ---
 
-## To run the API
+## To run the API O(∩_∩)O
 
 ```bash
 uvicorn main:app --reload
@@ -24,14 +24,14 @@ uvicorn main:app --reload
 
 ---
 
-## Documentation
+## Documentation .______.
 
 Swagger UI:  
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
 
-## Endpoints
+## Endpoints ⊙.☉
 | Endpoint               | Description                                          |
 | ---------------------- | ---------------------------------------------------- |
 | `GET /`                | List all available endpoints and wings               |
@@ -46,17 +46,14 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 ---
 
 ## WIP (●'◡'●)
-Wings
+* Wings: ```archaeology_wing_scraper```, ```flora_wing_scraper```, and ```fauna_wing_scraper``` haven’t been fully tested
+* Endpoints: ```/refresh/all``` hasn't been tested
 
-Archaeology, flora, and fauna wings haven’t been fully tested
-
-Refresher endpoints
-
-/refresh endpoints haven’t been fully tested
 
 ---
 
-## why I made this project  
-I spent hundreds of hours in this game, and have 100% multiple save files. On a recent update of this game, I realized that the trackers I used to note the items I collected before were super outdated, so I thought, "Hey, ik a thing or two about coding. Maybe I should make my own." This project is still a huge WIP, but I hope to complete it before I finish my 4th playthrough of this game lol
+## Why I made this project ( ´･･)ﾉ(._.`) 
+I spent hundreds of hours in this game, and have 100% multiple save files. On a recent update of this game, I realized that the trackers I used to note the items I collected before were super outdated, so I thought, "Hey, ik a thing or two about coding. Maybe I should make my own." This project is still a huge WIP, but I hope to complete it before I finish my 4th playthrough of this game haha. 
 
-yes i used chatgpt to structure this README :0
+
+ps: yes i used ChatGPT to structure this README don't come after me! /_ \
