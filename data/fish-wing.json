@@ -1,0 +1,1202 @@
+{
+    "Multi-Season": [
+        {
+            "name": "Koi",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Koi.png?307e89",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Pike",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Pike.png?6bec5e",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Pollock",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Pollock.png?7fa3e4",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Smallmouth Bass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Smallmouth_bass.png?2535af",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Trout",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Trout.png?eab1e8",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Spring River": [
+        {
+            "name": "Bluegill",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Bluegill.png?6d9af2",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Carp",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Carp.png?b92e45",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Chub",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Chub.png?4e3655",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Paddlefish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Paddlefish.png?c9a465",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Walleye",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Walleye.png?69f1ab",
+            "location": "River",
+            "weather": [
+                "Rainy",
+                "Rain"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        }
+    ],
+    "Spring Pond": [
+        {
+            "name": "Angel Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Angel_fish.png?886558",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Barb",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Barb.png?ffb943",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Brown Trout",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Brown_trout.png?5f10ef",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Crucian Carp",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Crucian_carp.png?17a1b3",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Goldfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Goldfish.png?b8d069",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Small",
+            "completed": false
+        }
+    ],
+    "Spring Ocean": [
+        {
+            "name": "Anchovy",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Anchovy.png?e85bbe",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Lobster",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lobster.png?10760c",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Mackerel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mackerel.png?545d28",
+            "location": "Ocean",
+            "weather": [
+                "Rainy",
+                "Thunderstorm",
+                "Rain"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Ocean Sunfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ocean_sunfish.png?dffd55",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Shrimp",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shrimp.png?7c398b",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        }
+    ],
+    "Summer River": [
+        {
+            "name": "Bream",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Bream.png?c86586",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Loach",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Loach.png?a220bc",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Minnow",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Minnow.png?d0bc7d",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Sweetfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sweetfish.png?8e1d2b",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Tarpon",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tarpon.png?beb0cb",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        }
+    ],
+    "Summer Pond": [
+        {
+            "name": "Brown Bullhead",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Brown_bullhead.png?4d49a6",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Giant Koi",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_koi.png?9998df",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Golden Shiner",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Golden_shiner.png?44a060",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Lake Chub",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lake_chub.png?b716ae",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Sauger",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sauger.png?7e15ed",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        }
+    ],
+    "Summer Ocean": [
+        {
+            "name": "Char",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Char.png?bbb00e",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Crab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Crab.png?41626c",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Dart",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dart.png?85ff96",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Grouper",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Grouper.png?6f7ec3",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Stingray",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Stingray.png?c8c162",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Fall River": [
+        {
+            "name": "Grayling",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Grayling.png?1aea51",
+            "location": "River",
+            "weather": [
+                "Rainy",
+                "Thunderstorm",
+                "Rain",
+                "Storm"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Lamprey",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lamprey.png?669f01",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Perch",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perch.png?5c3d64",
+            "location": "River",
+            "weather": [
+                "Rainy",
+                "Rain",
+                "Storm"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Razorback",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Razorback.png?5bf178",
+            "location": "River",
+            "weather": [
+                "Rainy",
+                "Thunderstorm",
+                "Rain",
+                "Storm"
+            ],
+            "rarity": "Rare",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Shad",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shad.png?6b6bec",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Fall Pond": [
+        {
+            "name": "Bluefish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Bluefish.png?afe965",
+            "location": "Pond",
+            "weather": [
+                "Rainy",
+                "Thunderstorm",
+                "Rain",
+                "Storm"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Killifish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Killifish.png?5bba81",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Rainbow Trout",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_trout.png?40cdc7",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Striped Bass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Striped_bass.png?5b9414",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "White Perch",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/White_perch.png?ebbaea",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Fall Ocean": [
+        {
+            "name": "Butterfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Butterfish.png?9fa23c",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Halibut",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Halibut.png?dc05e0",
+            "location": "Ocean",
+            "weather": [
+                "Rainy",
+                "Thunderstorm",
+                "Rain",
+                "Storm"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Mullet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mullet.png?e8c2ef",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Saury",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Saury.png?31b0af",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Shark",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shark.png?ab33e3",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        }
+    ],
+    "Winter River": [
+        {
+            "name": "Bowfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Bowfish.png?84632c",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Dace",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dace.png?f79178",
+            "location": "River",
+            "weather": [
+                "Snow",
+                "Blizzard"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Freshwater Eel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Freshwater_eel.png?f95ede",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Herring",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Herring.png?b6912c",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Shadow Bass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shadow_bass.png?a3e96c",
+            "location": "River",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Winter Pond": [
+        {
+            "name": "Alligator Gar",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alligator_gar.png?a242f3",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Burbot",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Burbot.png?705113",
+            "location": "Pond",
+            "weather": [
+                "Snow",
+                "Blizzard"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Flathead Catfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Flathead_catfish.png?584edd",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Giant Tilapia",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_tilapia.png?763e81",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Uncommon",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Tilapia",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tilapia.png?ce3a62",
+            "location": "Pond",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        }
+    ],
+    "Winter Ocean": [
+        {
+            "name": "Horse Mackerel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Horse_mackerel.png?8a02e1",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "King Crab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/King_crab.png?9f77db",
+            "location": "Ocean",
+            "weather": [
+                "Snow",
+                "Blizzard"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Oarfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Oarfish.png?a04b9d",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        },
+        {
+            "name": "Sand Lance",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sand_lance.png?1ad58d",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Sea Bass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_bass.png?105de5",
+            "location": "Ocean",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Fish Bait": [
+        {
+            "name": "Massive Minnow",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Massive_minnow.png?3234c3",
+            "location": "Any Fishing Location (requires use of Fish Bait)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Copper Rockfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Copper_rockfish.png?92a58c",
+            "location": "Any Fishing Location (requires use of Fish Bait)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Iron Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Iron_fish.png?af436a",
+            "location": "Any Fishing Location (requires use of Fish Bait)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Silver Squid",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Silver_squid.png?ad84c6",
+            "location": "Any Fishing Location (requires use of Fish Bait)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Golden Eel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Golden_eel.png?18867c",
+            "location": "Any Fishing Location (requires use of Fish Bait)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Giant",
+            "completed": false
+        }
+    ],
+    "Fish Trap": [
+        {
+            "name": "Blue Crab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Blue_crab.png?64eca2",
+            "location": "Fish Trap",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Sea Urchin",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_urchin.png?42a886",
+            "location": "Fish Trap",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Bait Thief",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Bait_thief.png?e37725",
+            "location": "Fish Trap",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Hake",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Hake.png?5a6967",
+            "location": "Fish Trap",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Amberjack",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Amberjack.png?37571e",
+            "location": "Fish Trap",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        }
+    ],
+    "Deep Woods": [
+        {
+            "name": "Sunny",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sunny.png?7487f8",
+            "location": "The Deep Woods",
+            "weather": [
+                "Rain",
+                "Thunderstorm",
+                "Snow",
+                "Blizzard"
+            ],
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Forest Perch",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Forest_perch.png?33565a",
+            "location": "The Deep Woods",
+            "weather": [
+                "Rain",
+                "Thunderstorm",
+                "Snow",
+                "Blizzard"
+            ],
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Silver Redhorse",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Silver_redhorse.png?1e972b",
+            "location": "The Deep Woods",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Lake Trout",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lake_trout.png?e7547a",
+            "location": "The Deep Woods",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Muskie",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Muskie.png?feb8c0",
+            "location": "The Deep Woods",
+            "weather": [
+                "Any"
+            ],
+            "rarity": "Uncommon",
+            "size": "Large",
+            "completed": false
+        }
+    ],
+    "Upper Mines": [
+        {
+            "name": "Cave Eel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_eel.png?1e1f2e",
+            "location": "The Upper Mines (floors 1-19)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Cave Shark",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_shark.png?675b8b",
+            "location": "The Upper Mines (floors 1-19)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Cave Shrimp",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_shrimp.png?6bec9b",
+            "location": "The Upper Mines (floors 1-19)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Rock Guppy",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_guppy.png?9bf633",
+            "location": "The Upper Mines (floors 1-19)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Stone Loach",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_loach.png?ae7ef9",
+            "location": "The Upper Mines (floors 1-19)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Tide Caverns": [
+        {
+            "name": "Archerfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Archerfish.png?fb93c8",
+            "location": "The Tide Caverns (floors 21-39)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Mini-Whale Shark",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mini_whale_shark.png?ab9822",
+            "location": "The Tide Caverns (floors 21-39)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Sapphire Betta",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sapphire_betta.png?e19b66",
+            "location": "The Tide Caverns (floors 21-39)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Transparent Jellyfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Transparent_jellyfish.png?38e216",
+            "location": "The Tide Caverns (floors 21-39)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Water Balloon Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Water_balloon_fish.png?a848e7",
+            "location": "The Tide Caverns (floors 21-39)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Deep Earth": [
+        {
+            "name": "Earth Eel",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Earth_eel.png?f5214e",
+            "location": "The Deep Earth (floors 41-59)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Emerald Horned Charger",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Emerald_horned_charger.png?9a2e5a",
+            "location": "The Deep Earth (floors 41-59)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Pebble Minnow",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Pebble_minnow.png?9be875",
+            "location": "The Deep Earth (floors 41-59)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Rockbiter",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rockbiter.png?3034db",
+            "location": "The Deep Earth (floors 41-59)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Shardfin",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shardfin.png?730c00",
+            "location": "The Deep Earth (floors 41-59)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        }
+    ],
+    "Lava Caves": [
+        {
+            "name": "Armored Bass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Armored_bass.png?9bf00a",
+            "location": "The Lava Caves (floors 61-79)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Candelabra Seadragon",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Candelabra_seadragon.png?e0aba6",
+            "location": "The Lava Caves (floors 61-79)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Firesail Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Firesail_fish.png?e7e4d7",
+            "location": "The Lava Caves (floors 61-79)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Lava Piranha",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lava_piranha.png?e6cf9d",
+            "location": "The Lava Caves (floors 61-79)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Sulfur Crab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sulfur_crab.png?346f01",
+            "location": "The Lava Caves (floors 61-79)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        }
+    ],
+    "Ruins": [
+        {
+            "name": "Winged Shrimp",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Winged_shrimp.png?c0f43e",
+            "location": "The Ancient Ruins (floors 81-99)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Gazer",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Gazer.png?89156e",
+            "location": "The Ancient Ruins (floors 81-99)",
+            "weather": "All",
+            "rarity": "Uncommon",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Luminescent Crab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Luminescent_crab.png?56aa78",
+            "location": "The Ancient Ruins (floors 81-99)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Giant Jellyfish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_jellyfish.png?7a27ca",
+            "location": "The Ancient Ruins (floors 81-99)",
+            "weather": "All",
+            "rarity": "Common",
+            "size": "Large",
+            "completed": false
+        },
+        {
+            "name": "Coelacanth",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Coelacanth.png?c9712e",
+            "location": "The Ancient Ruins (floors 81-99)",
+            "weather": "All",
+            "rarity": "Rare",
+            "size": "Large",
+            "completed": false
+        }
+    ],
+    "Legendary": [
+        {
+            "name": "Cherry Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Cherry_fish.png?9d7f67",
+            "location": "Pond",
+            "weather": [
+                "Wind"
+            ],
+            "rarity": "Legendary",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Leaf Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Leaf_fish.png?eec7e4",
+            "location": "River",
+            "weather": [
+                "Wind"
+            ],
+            "rarity": "Legendary",
+            "size": "Small",
+            "completed": false
+        },
+        {
+            "name": "Lightning Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lightning_fish.png?cc0b25",
+            "location": "River",
+            "weather": [
+                "Thunderstorm",
+                "Storm"
+            ],
+            "rarity": "Legendary",
+            "size": "Medium",
+            "completed": false
+        },
+        {
+            "name": "Snow Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Snow_fish.png?7ca2e8",
+            "location": "Ocean",
+            "weather": [
+                "Blizzard"
+            ],
+            "rarity": "Legendary",
+            "size": "Medium",
+            "completed": false
+        }
+    ]
+}
