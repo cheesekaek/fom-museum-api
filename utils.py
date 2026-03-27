@@ -1,3 +1,6 @@
+# file for redundant code
+
+
 # creating 2d grid to insert missing columns in HTML
 # (to account for rowspan usage in some columns)
 def expand_table(table):
@@ -38,3 +41,9 @@ def expand_table(table):
         grid.append(grid_row)
 
     return grid
+
+
+# header indices for each table
+def get_header_indices(table):
+    headers = [th.get_text(strip=True).lower() for th in table.find("tr").find_all("th")] # list of all col names
+    return {header : index for index, header in enumerate(headers)} # ret {col name : index}
