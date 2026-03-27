@@ -3,7 +3,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-from utils import expand_table, get_header_indices
+from scrapers.utils import expand_table, get_header_indices
 
 def scrape_fw():
     # fish wing url scraper
@@ -63,7 +63,7 @@ def scrape_fw():
                             if text:
                                 weather.add(text)
                     else:
-                        weather = "All"
+                        weather = ["Any"]
 
                     if rarity_index is not None:
                         rarity = row[rarity_index].get_text(strip=True)
