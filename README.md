@@ -5,15 +5,15 @@ A Python scraper and API for [Fields of Mistria](https://fieldsofmistria.wiki.gg
 ---
 
 ## Project Structure
-
+```
 fom-museum-api/
 │
 ├── data/ # Generated JSON datasets used by the API
 ├── scrapers/ # Scripts for each scraper, corresponding to each museum wing (insects, fish, flora, archaeology)
 ├── .gitignore # gitignore ( ͠° ͟ʖ ͡°)
 ├── main.py # API entrypoint
-└── README.md # the one you're reading rn ;)
-
+└── README.md # The one you're reading rn ;)
+```
 ---
 
 ## To run the API
