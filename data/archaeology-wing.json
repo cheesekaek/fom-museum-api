@@ -1,0 +1,1049 @@
+{
+    "Aldarian": [
+        {
+            "name": "Aldarian Gauntlet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_gauntlet.png?8a771d",
+            "location(s)": [
+                "The Narrows"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Aldarian Sword",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_sword.png?3cee2a",
+            "location(s)": [
+                "The Narrows"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Aldarian War Banner",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_war_banner.png?d1fe55",
+            "location(s)": [
+                "The Narrows"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Family Crest Pendant",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Family_crest_pendant.png?bddca5",
+            "location(s)": [
+                "The Narrows"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Lost Crown of Aldaria",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Lost_crown_of_aldaria.png?54d972",
+            "location(s)": [
+                "The Narrows"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        }
+    ],
+    "Caldosian": [
+        {
+            "name": "Caldosian Breastplate",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_breastplate.png?b44ce6",
+            "location(s)": [
+                "The Eastern Road"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Caldosian Drinking Horn",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_drinking_horn.png?b8a4b8",
+            "location(s)": [
+                "The Eastern Road"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Caldosian Emperor Bust",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_emperor_bust.png?6b467c",
+            "location(s)": [
+                "The Eastern Road"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Caldosian Sword",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_sword.png?a2fed5",
+            "location(s)": [
+                "The Eastern Road"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Statuette of Caldarus",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Statuette_of_caldarus.png?e94015",
+            "location(s)": [
+                "The Eastern Road"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        }
+    ],
+    "Alda": [
+        {
+            "name": "Alda Bronze Sword",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_bronze_sword.png?5bd40d",
+            "location(s)": [
+                "Sweetwater Farm"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Alda Clay Pot",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_clay_pot.png?f31937",
+            "location(s)": [
+                "Sweetwater Farm"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Alda Feather Pendant",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_feather_pendant.png?430950",
+            "location(s)": [
+                "Sweetwater Farm"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Alda Gem Bracelet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_gem_bracelet.png?347810",
+            "location(s)": [
+                "Sweetwater Farm"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Alda Mural Tablet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_mural_tablet.png?c9e735",
+            "location(s)": [
+                "Sweetwater Farm"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        }
+    ],
+    "Ancient": [
+        {
+            "name": "Ancient Crystal Goblet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_crystal_goblet.png?fe9d66",
+            "location(s)": [
+                "The Western Ruins"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Ancient Gold Coin",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_gold_coin.png?2a288d",
+            "location(s)": [
+                "The Western Ruins"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Ancient Horn Circlet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_horn_circlet.png?1a5f50",
+            "location(s)": [
+                "The Western Ruins"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Ancient Royal Scepter",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_royal_scepter.png?d40633",
+            "location(s)": [
+                "The Western Ruins"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Ancient Stone Lantern",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_stone_lantern.png?df1705",
+            "location(s)": [
+                "The Western Ruins"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Prehistoric": [
+        {
+            "name": "Amber Trapped Insect",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Amber_trapped_insect.png?b7950c",
+            "location(s)": [
+                "The Beach"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Fossilized Egg",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Fossilized_egg.png?339dce",
+            "location(s)": [
+                "The Beach"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Meteorite",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Meteorite.png?b07875",
+            "location(s)": [
+                "The Beach"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Tiny Dinosaur Skeleton",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tiny_dinosaur_skeleton.png?3aaba1",
+            "location(s)": [
+                "The Beach"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Trilobite Fossil",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Trilobite_fossil.png?9d4562",
+            "location(s)": [
+                "The Beach"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Oopart": [
+        {
+            "name": "Black Tablet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Black_tablet.png?832df5",
+            "location(s)": [
+                "Dig Spots (requires Well Placed Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Completely Wrong Map",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Completely_wrong_map.png?a6fd45",
+            "location(s)": [
+                "Dig Spots (requires Well Placed Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Muttering Cube",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Muttering_cube.png?b28764",
+            "location(s)": [
+                "Dig Spots (requires Well Placed Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Unknown Dragon Statuette",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Unknown_dragon_statuette.png?35ff5c",
+            "location(s)": [
+                "Dig Spots (requires Well Placed Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Weightless Stone",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Weightless_stone.png?93dc95",
+            "location(s)": [
+                "Dig Spots (requires Well Placed Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Aquatic": [
+        {
+            "name": "Coin Lump",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Coin_lump.png?6d73f7",
+            "location(s)": [
+                "Found whilst Fishing (requires Aquatic Antiquities Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Giant Fish Scale",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_fish_scale.png?dbfae2",
+            "location(s)": [
+                "Found whilst Fishing (requires Aquatic Antiquities Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Rubber Fish",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rubber_fish.png?9e0977",
+            "location(s)": [
+                "Found whilst Fishing (requires Aquatic Antiquities Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Rusted Treasure Chest",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rusted_treasure_chest.png?9b9f17",
+            "location(s)": [
+                "Found whilst Fishing (requires Aquatic Antiquities Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Water Sphere",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Water_sphere.png?f84df6",
+            "location(s)": [
+                "Found whilst Fishing (requires Aquatic Antiquities Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Sunken": [
+        {
+            "name": "Criminal Confession",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Criminal_confession.png?7454d3",
+            "location(s)": [
+                "Found whilst Diving (requires Sunken Secrets Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Mermaid's Comb",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mermaid%27s_comb.png?d7aea9",
+            "location(s)": [
+                "Found whilst Diving (requires Sunken Secrets Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Rainbow Seaweed",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_seaweed.png?52af58",
+            "location(s)": [
+                "Found whilst Diving (requires Sunken Secrets Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Rock with a Hole",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_with_a_hole.png?44f55a",
+            "location(s)": [
+                "Found whilst Diving (requires Sunken Secrets Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Rusted Shield",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rusted_shield.png?211914",
+            "location(s)": [
+                "Found whilst Diving (requires Sunken Secrets Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Buried": [
+        {
+            "name": "Diamond-backed Mirror",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Diamond_backed_mirror.png?e47120",
+            "location(s)": [
+                "The Mines"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Flint Arrowhead",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Flint_arrowhead.png?a7be01",
+            "location(s)": [
+                "The Mines"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Obsidian Blade",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Obsidian_blade.png?a04eca",
+            "location(s)": [
+                "The Mines"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Shortcut Scroll",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shortcut_scroll.png?bfeb01",
+            "location(s)": [
+                "The Mines"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Stone Horse",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_horse.png?8788c3",
+            "location(s)": [
+                "The Mines"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Upper Mines": [
+        {
+            "name": "Miner's Helmet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_helmet.png?1f0012",
+            "location(s)": [
+                "The Upper Mines (floors 1 - 19)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Miner's Pickaxe",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_pickaxe.png?5d49a5",
+            "location(s)": [
+                "The Upper Mines (floors 1 - 19)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Miner's Rucksack",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_rucksack.png?b6dd53",
+            "location(s)": [
+                "The Upper Mines (floors 1 - 19)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Miner's Slab",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_slab.png?5f4649",
+            "location(s)": [
+                "The Upper Mines (floors 1 - 19)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Tin Lunchbox",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tin_lunchbox.png?ee19c6",
+            "location(s)": [
+                "The Upper Mines (floors 1 - 19)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Tide Cavern": [
+        {
+            "name": "Crab Statue",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Crab_statue.png?106302",
+            "location(s)": [
+                "The Tide Caverns (floors 21 - 39)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Dense Water",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dense_water.png?47fc44",
+            "location(s)": [
+                "The Tide Caverns (floors 21 - 39)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Starlight Coral",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Starlight_coral.png?2d18eb",
+            "location(s)": [
+                "The Tide Caverns (floors 21 - 39)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Stone Shell",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_shell.png?1fb1fa",
+            "location(s)": [
+                "The Tide Caverns (floors 21 - 39)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Tidestone",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tidestone.png?cecd2d",
+            "location(s)": [
+                "The Tide Caverns (floors 21 - 39)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Deep Earth": [
+        {
+            "name": "Earth-infused Stone",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Earth-infused_stone.png?49af36",
+            "location(s)": [
+                "The Deep Earth (floors 41 - 59)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Faceted Rock Gem",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Faceted_rock_gem.png?81544a",
+            "location(s)": [
+                "The Deep Earth (floors 41 - 59)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Really Round Rock",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Really_round_rock.png?6918ab",
+            "location(s)": [
+                "The Deep Earth (floors 41 - 59)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Rock Statue",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_statue.png?538c74",
+            "location(s)": [
+                "The Deep Earth (floors 41 - 59)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Seriously Square Stone",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Seriously_square_stone.png?50a3b9",
+            "location(s)": [
+                "The Deep Earth (floors 41 - 59)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Lava Caves": [
+        {
+            "name": "Fire Crystal",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Fire_crystal.png?b191be",
+            "location(s)": [
+                "The Lava Caves (floors 61 - 79)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Rainbow Geode",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_geode.png?fc4987",
+            "location(s)": [
+                "The Lava Caves (floors 61 - 79)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Red Obsidian",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Red_obsidian.png?5dac82",
+            "location(s)": [
+                "The Lava Caves (floors 61 - 79)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Tiny Volcano",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Tiny_volcano.png?1394f8",
+            "location(s)": [
+                "The Lava Caves (floors 61 - 79)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Warm Rock",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Warm_rock.png?82641c",
+            "location(s)": [
+                "The Lava Caves (floors 61 - 79)"
+            ],
+            "rarity": "Common",
+            "completed": false
+        }
+    ],
+    "Dragon": [
+        {
+            "name": "Dragon Claw",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_claw.png?3181c5",
+            "location(s)": [
+                "The Ancient Ruins (floors 81 - 99)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Dragon-Forged Bracelet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_forged_bracelet.png?387305",
+            "location(s)": [
+                "The Ancient Ruins (floors 81 - 99)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Dragon Pact Tablet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_pact_tablet.png?9b7505",
+            "location(s)": [
+                "The Ancient Ruins (floors 81 - 99)"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Dragon Scale",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_scale.png?388209",
+            "location(s)": [
+                "The Ancient Ruins (floors 81 - 99)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Hardened Essence",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Hardened_essence.png?5d3249",
+            "location(s)": [
+                "The Ancient Ruins (floors 81 - 99)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        }
+    ],
+    "Ritual": [
+        {
+            "name": "Ritual Beads",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_beads.png?5b6559",
+            "location(s)": [
+                "Ritual Chambers in The Mines (requires Lost to History Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Ritual Chalice",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_chalice.png?557d07",
+            "location(s)": [
+                "Ritual Chambers in The Mines (requires Lost to History Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Ritual Incense Burner",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_incense_burner.png?e8bac3",
+            "location(s)": [
+                "Ritual Chambers in The Mines (requires Lost to History Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Ritual Scepter",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_scepter.png?adf966",
+            "location(s)": [
+                "Ritual Chambers in The Mines (requires Lost to History Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Ritual Tablet",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_tablet.png?420c88",
+            "location(s)": [
+                "Ritual Chambers in The Mines (requires Lost to History Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        }
+    ],
+    "Mist": [
+        {
+            "name": "Mist Crystal",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_crystal.png?2f1940",
+            "location(s)": [
+                "Mist Spots (requires Mist Sight Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Mist Flute",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_flute.png?1a4866",
+            "location(s)": [
+                "Mist Spots (requires Mist Sight Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Mist Scroll",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_scroll.png?2c84c7",
+            "location(s)": [
+                "Mist Spots (requires Mist Sight Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Misty Black Mirror",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Misty_black_mirror.png?4bf04b",
+            "location(s)": [
+                "Mist Spots (requires Mist Sight Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Misty Feather Quill",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Misty_feather_quill.png?96f8e0",
+            "location(s)": [
+                "Mist Spots (requires Mist Sight Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Vintage Farm Tools": [
+        {
+            "name": "Vintage Brush",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_brush.png?adb3e8",
+            "location(s)": [
+                "The Farm (requires Former Farmers Skill)"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Vintage Cow Bell",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_cow_bell.png?c50c40",
+            "location(s)": [
+                "The Farm (requires Former Farmers Skill)"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Vintage Hammer",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_hammer.png?7c37f7",
+            "location(s)": [
+                "The Farm (requires Former Farmers Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Vintage Sickle",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_sickle.png?f667ff",
+            "location(s)": [
+                "The Farm (requires Former Farmers Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Vintage Watering Can",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_watering_can.png?4122f6",
+            "location(s)": [
+                "The Farm (requires Former Farmers Skill)"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Metals Of Mistria": [
+        {
+            "name": "Perfect Copper Ore",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_copper_ore.png?f66252",
+            "location(s)": [
+                "The Upper Mines"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Perfect Gold Ore",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_gold_ore.png?f40629",
+            "location(s)": [
+                "The Lava Caves"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Perfect Iron Ore",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_iron_ore.png?c45762",
+            "location(s)": [
+                "The Tide Caverns"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Perfect Mistril Ore",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_mistril_ore.png?fdb69b",
+            "location(s)": [
+                "The Ancient Ruins"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Perfect Silver Ore",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_silver_ore.png?3e274e",
+            "location(s)": [
+                "The Deep Earth"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Gems Of Mistria": [
+        {
+            "name": "Perfect Diamond",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_diamond.png?ac54e3",
+            "location(s)": [
+                "The Lava Caves"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Perfect Emerald",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_emerald.png?80882c",
+            "location(s)": [
+                "The Deep Earth"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Perfect Pink Diamond",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_pink_diamond.png?80aa1d",
+            "location(s)": [
+                "The Ancient Ruins"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Perfect Ruby",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_ruby.png?8b714c",
+            "location(s)": [
+                "The Upper Mines"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Perfect Sapphire",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_sapphire.png?e3aca7",
+            "location(s)": [
+                "The Tide Caverns"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        }
+    ],
+    "Deep Woods": [
+        {
+            "name": "Crystal Apple",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_apple.png?6a4aca",
+            "location(s)": [
+                "The Deep Woods"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Fossilized Mandrake Root",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Fossilized_mandrake_root.png?2db359",
+            "location(s)": [
+                "The Deep Woods"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Gathering Basket",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Gathering_basket.png?9d7dee",
+            "location(s)": [
+                "The Deep Woods"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Metal Leaf",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Metal_leaf.png?913ba3",
+            "location(s)": [
+                "The Deep Woods"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        },
+        {
+            "name": "Petrified Wood",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Petrified_wood.png?52c376",
+            "location(s)": [
+                "The Deep Woods"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        }
+    ],
+    "Fish Trap": [
+        {
+            "name": "Clay Amphora",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Clay_amphora.png?d2d67e",
+            "location(s)": [
+                "Fish Trap"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Message in a Bottle",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Message_in_a_bottle.png?ffed3f",
+            "location(s)": [
+                "Fish Trap"
+            ],
+            "rarity": "Legendary",
+            "completed": false
+        },
+        {
+            "name": "Porcelain Figure",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Porcelain_figure.png?54a03a",
+            "location(s)": [
+                "Fish Trap"
+            ],
+            "rarity": "Uncommon",
+            "completed": false
+        },
+        {
+            "name": "Sea Glass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_glass.png?7a76f0",
+            "location(s)": [
+                "Fish Trap"
+            ],
+            "rarity": "Common",
+            "completed": false
+        },
+        {
+            "name": "Worn Pendant",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Worn_pendant.png?cee1a7",
+            "location(s)": [
+                "Fish Trap"
+            ],
+            "rarity": "Rare",
+            "completed": false
+        }
+    ],
+    "Dig Site": [
+        {
+            "name": "Clay",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Clay.png?a0ee32",
+            "location(s)": [
+                "Diving",
+                "Mining",
+                "Balor's Wagon for 50t",
+                "Carpenter for 50t",
+                "Refining"
+            ],
+            "rarity": "",
+            "completed": false
+        },
+        {
+            "name": "Peat",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Peat.png?b94780",
+            "location(s)": [
+                "Carpenter (requires Steady Supplies Skill) for 50t",
+                "Refining",
+                "Mining"
+            ],
+            "rarity": "",
+            "completed": false
+        },
+        {
+            "name": "Shard Mass",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shard_mass.png?6468d3",
+            "location(s)": [
+                "Dig Spots",
+                "Balor's Wagon for 80t",
+                "Refining"
+            ],
+            "rarity": "",
+            "completed": false
+        },
+        {
+            "name": "Shards",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Shards.png?86122e",
+            "location(s)": [
+                "Balor's Wagon for 50t",
+                "Dig Spots",
+                "Refining"
+            ],
+            "rarity": "",
+            "completed": false
+        },
+        {
+            "name": "Sod",
+            "img_url": "https://fieldsofmistria.wiki.gg/images/Sod.png?c4fd2f",
+            "location(s)": [
+                "Carpenter (requires Steady Supplies Skill) for 50t",
+                "Mining",
+                "Refining",
+                "Archaeology"
+            ],
+            "rarity": "",
+            "completed": false
+        }
+    ]
+}
