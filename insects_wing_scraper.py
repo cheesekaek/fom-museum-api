@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from expand import expand_table
+from utils import expand_table, get_header_indices
 
 
 def scrape_iw():
@@ -34,20 +34,24 @@ def scrape_iw():
                 grid = expand_table(set_table) # 2d grid
 
                 rows = [] # list of rows in each set
-                headers = [th.get_text(strip=True).lower() for th in grid[0]] # list of all col names
-                season_index = headers.index("season") if "season" in headers else None # check if season present
-                time_index = headers.index("time")
-                weather_index = headers.index("weather")
-                rarity_index = headers.index("rarity")
+
+                indices = get_header_indices(set_table) # col indices
+                image_index = indices.get("image")
+                name_index = indices.get("name")
+                location_index = indices.get("location")
+                season_index = indices.get("season") # check if season present
+                time_index = indices.get("time")
+                weather_index = indices.get("weather")
+                rarity_index = indices.get("rarity") # check if rarity present
 
                 for row in grid[1:]:
 
-                    link_tag = row[0].find("a")
+                    link_tag = row[image_index].find("a")
                     img_tag = link_tag.find("img")
                     img_url = "https://fieldsofmistria.wiki.gg" + img_tag.get("src") # to account for lazy loading
 
-                    name = row[1].get_text(strip=True)
-                    location = row[2].get_text(separator=" ", strip=True)
+                    name = row[name_index].get_text(strip=True)
+                    location = row[location_index].get_text(separator=" ", strip=True)
 
                     seasons = set()
                     if season_index is not None:
@@ -62,10 +66,13 @@ def scrape_iw():
                             if text:
                                 seasons.add(text)
                     else:
-                        seasons.add("All")
+                        if set_name in ("Spring", "Summer", "Winter", "Fall"):
+                            seasons.add(set_name)
+                        else:
+                            seasons.add("All")
 
                     span_tags = row[time_index].find_all("span", class_="no-wrap")
-                    time_range = span_tags[-1].get_text(strip=True) # just the time range
+                    time_range = span_tags[-1].get_text(strip=True).replace("\xa0", " ") # just the time range
 
                     a_tags = row[weather_index].find_all("a", title="Weather")
                     weather = set()
@@ -75,7 +82,10 @@ def scrape_iw():
                             if text:
                                 weather.add(text)
 
-                    rarity = row[rarity_index].get_text(strip=True)
+                    if rarity_index is not None:
+                        rarity = row[rarity_index].get_text(strip=True)
+                    else:
+                        rarity = set_name
 
                     rows.append({
                         "name": name,
@@ -89,4 +99,5 @@ def scrape_iw():
                     })
 
                 sets[set_name] = rows
+
     return sets
