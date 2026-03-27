@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from utils import expand_table, get_header_indices
+from scrapers.utils import expand_table, get_header_indices
 
 
 def scrape_iw():

@@ -2,10 +2,10 @@ import os, json
 
 from starlette.responses import JSONResponse
 
-from fish_wing_scraper import scrape_fw
-from archaeology_wing_scraper import scrape_aw
-from flora_wing_scraper import scrape_flw
-from insects_wing_scraper import scrape_iw
+from scrapers.fish_wing_scraper import scrape_fw
+from scrapers.archaeology_wing_scraper import scrape_aw
+from scrapers.flora_wing_scraper import scrape_flw
+from scrapers.insects_wing_scraper import scrape_iw
 
 from fastapi import FastAPI, HTTPException
 

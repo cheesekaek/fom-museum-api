@@ -1,4 +1,5 @@
 # file for redundant code
+import re
 
 
 # creating 2d grid to insert missing columns in HTML
@@ -47,3 +48,34 @@ def expand_table(table):
 def get_header_indices(table):
     headers = [th.get_text(strip=True).lower() for th in table.find("tr").find_all("th")] # list of all col names
     return {header : index for index, header in enumerate(headers)} # ret {col name : index}
+
+def parse_locations(cell):
+    locations = set() # multiple locations
+    curr_loc = [] # to account for different tag types for each location
+
+    for child in cell.children:
+        if child.name == "a":
+            a_text = child.get_text(strip=True)
+            if a_text:
+                curr_loc.append(a_text)
+        elif child.name == "br": # <br> symbolizes a new location
+            if curr_loc:
+                loc_str = " ".join(curr_loc).strip()
+                # cleanup messy syntax
+                loc_str = loc_str.replace("\u00a0", " ")
+                loc_str = re.sub(r"\s+\)", ")", loc_str)
+                # add to set
+                locations.add(loc_str)
+                curr_loc = []  # refresh
+        else:  # plain text nodes, span or small
+            text = child.get_text(separator=" ", strip=True)
+            if text:
+                curr_loc.append(text)
+
+    if curr_loc:  # last group accounted for
+        loc_str = " ".join(curr_loc).strip()
+        loc_str = loc_str.replace("\u00a0", " ")
+        loc_str = re.sub(r"\s+\)", ")", loc_str)
+        locations.add(loc_str)
+
+    return locations

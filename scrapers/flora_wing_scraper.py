@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from utils import expand_table
+from scrapers.utils import expand_table
 
 
 def scrape_flw():
