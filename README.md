@@ -45,10 +45,11 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 
 ---
 
-## WIP (●'◡'●)
+## WIP and future plans(●'◡'●)
 * Wings: ```archaeology_wing_scraper```, ```flora_wing_scraper```, and ```fauna_wing_scraper``` haven’t been fully tested
 * Endpoints: ```/refresh/all``` hasn't been tested
-
+* a frontend -> similar to the wiki page, but with checkmarks to track progress
+* a database to store json info and progress
 
 ---
 
