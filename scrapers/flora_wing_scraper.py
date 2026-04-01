@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from scrapers.utils import expand_table
+from scrapers.utils import expand_table, parse_locations, get_header_indices
 
 
 def scrape_flw():
@@ -30,16 +30,22 @@ def scrape_flw():
             if set_table:
                 grid = expand_table(set_table) # 2d grid
 
+                indices = get_header_indices(set_table) # indices for cols
+                name_index = indices.get("name")
+                image_index = indices.get("image")
+                sources_index = indices.get("source(s)")
+                location_index = indices.get("known location(s)")
+
                 rows = [] # list of rows in each set
                 for row in grid[1:]: # cols in each row : name, img_url, location, rarity, completed
 
-                    link_tag = row[0].find("a")
+                    link_tag = row[image_index].find("a")
                     img_tag = link_tag.find("img")
                     img_url = "https://fieldsofmistria.wiki.gg" + img_tag.get("src") # to account for lazy loading
 
-                    name = row[1].get_text(strip=True)
+                    name = row[name_index].get_text(strip=True)
 
-                    p_tag = row[2].find("p")
+                    p_tag = row[sources_index].find("p")
                     sources = set() # multiple sources
                     for a_tag in p_tag.find_all("a"):
                         source = a_tag.get("title")
@@ -47,33 +53,23 @@ def scrape_flw():
                             # ^ removed redundant/unnecessary terms
                             sources.add(source)
 
-                    locations = set() # multiple locations
-                    curr_loc = [] # to account for different tag types for each location
-                    for child in row[3].children:
-                        if child.name == "a": # new location begins at a
-                            if curr_loc:
-                                locations.add(" ".join(curr_loc).strip()) # join curr loc and add to set
-                                curr_loc = [] # refresh
-                            curr_loc.append(child.get_text(strip=True))
-                        elif child.name == "br": # skip br
-                            continue
-                        elif child.name == "small":
-                            text = child.get_text(separator=" ", strip=True)
-                            if text:
-                                curr_loc.append(text)
-                        else:  # plain text nodes
-                            text = str(child).strip() # plain text
-                            if text:
-                                curr_loc.append(text)
-
-                    if curr_loc:  # last group accounted for
-                        locations.add(" ".join(curr_loc).strip())
+                    locations = parse_locations(row[location_index])
+                    final_loc = [] # custom modification for inconsistent HTML formats
+                    text = ""
+                    for loc in locations:
+                        if loc.startswith("(floors") | loc.startswith("* Underseaweed"):
+                            pass  # skips these locations
+                        elif loc == "(Requires Void Sight)":
+                            text += f" {loc}"
+                        else:
+                            final_loc.append(loc)
+                    final_loc = [loc + text if loc == "Any Floor Without a Seal" else loc for loc in final_loc]
 
                     rows.append({
                         "name": name,
                         "img_url": img_url,
                         "source(s)": sources,
-                        "known_location(s)": locations,
+                        "known_location(s)": final_loc,
                         "completed": False # default
                     })
 

@@ -49,6 +49,7 @@ def get_header_indices(table):
     headers = [th.get_text(strip=True).lower() for th in table.find("tr").find_all("th")] # list of all col names
     return {header : index for index, header in enumerate(headers)} # ret {col name : index}
 
+# location parser for complicated cell blocks
 def parse_locations(cell):
     locations = set() # multiple locations
     curr_loc = [] # to account for different tag types for each location

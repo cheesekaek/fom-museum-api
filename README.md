@@ -46,7 +46,7 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 ---
 
 ## WIP (●'◡'●)
-* Wings: ```archaeology_wing_scraper```, ```flora_wing_scraper```, and ```fauna_wing_scraper``` haven’t been fully tested
+* Wings: ```insects_wing_scraper``` hasn’t been fully tested
 * Endpoints: ```/refresh/all``` hasn't been tested
 
 
