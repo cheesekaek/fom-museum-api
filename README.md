@@ -49,7 +49,6 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 * Wings: ```insects_wing_scraper``` hasn’t been fully tested
 * Endpoints: ```/refresh/all``` hasn't been tested
 
-
 ---
 
 ## Why I made this project ( ´･･)ﾉ(._.`) 
