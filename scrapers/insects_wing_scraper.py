@@ -52,6 +52,7 @@ def scrape_iw():
 
                     name = row[name_index].get_text(strip=True)
                     location = row[location_index].get_text(separator=" ", strip=True)
+                    location = [location] # converted to list for consistent data type across all JSON files
 
                     seasons = set()
                     if season_index is not None:
@@ -90,7 +91,7 @@ def scrape_iw():
                     rows.append({
                         "name": name,
                         "img_url": img_url,
-                        "location": location,
+                        "location(s)": location,
                         "season(s)": seasons,
                         "time_range": time_range,
                         "weather": weather,

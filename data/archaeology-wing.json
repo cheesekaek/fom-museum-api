@@ -991,11 +991,11 @@
             "name": "Clay",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Clay.png?a0ee32",
             "location(s)": [
-                "Diving",
-                "Mining",
                 "Balor's Wagon for 50t",
-                "Carpenter for 50t",
-                "Refining"
+                "Diving",
+                "Refining",
+                "Mining",
+                "Carpenter for 50t"
             ],
             "rarity": "",
             "completed": false
@@ -1005,8 +1005,8 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Peat.png?b94780",
             "location(s)": [
                 "Carpenter (requires Steady Supplies Skill) for 50t",
-                "Refining",
-                "Mining"
+                "Mining",
+                "Refining"
             ],
             "rarity": "",
             "completed": false
@@ -1016,8 +1016,8 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Shard_mass.png?6468d3",
             "location(s)": [
                 "Dig Spots",
-                "Balor's Wagon for 80t",
-                "Refining"
+                "Refining",
+                "Balor's Wagon for 80t"
             ],
             "rarity": "",
             "completed": false
@@ -1026,9 +1026,9 @@
             "name": "Shards",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Shards.png?86122e",
             "location(s)": [
-                "Balor's Wagon for 50t",
                 "Dig Spots",
-                "Refining"
+                "Refining",
+                "Balor's Wagon for 50t"
             ],
             "rarity": "",
             "completed": false
@@ -1037,10 +1037,10 @@
             "name": "Sod",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sod.png?c4fd2f",
             "location(s)": [
-                "Carpenter (requires Steady Supplies Skill) for 50t",
-                "Mining",
                 "Refining",
-                "Archaeology"
+                "Archaeology",
+                "Mining",
+                "Carpenter (requires Steady Supplies Skill) for 50t"
             ],
             "rarity": "",
             "completed": false

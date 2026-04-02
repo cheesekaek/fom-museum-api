@@ -4,22 +4,22 @@
             "name": "Cabbage",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cabbage.png?e2dbdf",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Cherry",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cherry.png?d6e773",
             "source(s)": [
-                "Balor's Wagon",
-                "The Eastern Road",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon",
+                "The Eastern Road"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road"
             ],
             "completed": false
@@ -28,30 +28,30 @@
             "name": "Potato",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Potato.png?e58bd2",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Strawberry",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Strawberry.png?936558",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Turnip",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Turnip.png?e82d93",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         }
     ],
@@ -60,14 +60,14 @@
             "name": "Daffodil",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Daffodil.png?b4d6bb",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming",
+                "Forageables",
                 "Celine/Quests",
-                "Forageables"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "Sweetwater Farm",
-                "The Narrows"
+            "location(s)": [
+                "The Narrows",
+                "Sweetwater Farm"
             ],
             "completed": false
         },
@@ -75,15 +75,15 @@
             "name": "Dandelion",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Dandelion.png?3ae3df",
             "source(s)": [
-                "Balor's Wagon",
                 "Spring",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "Sweetwater Farm",
+            "location(s)": [
                 "The Narrows",
-                "Mistria"
+                "Mistria",
+                "Sweetwater Farm"
             ],
             "completed": false
         },
@@ -91,13 +91,13 @@
             "name": "Lilac",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Lilac.png?ec8693",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
-                "Sweetwater Farm"
+            "location(s)": [
+                "Sweetwater Farm",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -105,11 +105,11 @@
             "name": "Snowdrop Anemone",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Snowdrop_anemone.png?59b990",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Beach (requires Story Quest \"Repair the Beach Bridge\" to be completed)",
                 "The Western Ruins"
             ],
@@ -119,17 +119,17 @@
             "name": "Tulip",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Tulip.png?134974",
             "source(s)": [
-                "Spring",
-                "Pets",
-                "Balor's Wagon",
-                "Celine/Quests",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Celine/Quests",
+                "Pets",
+                "Spring",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
+            "location(s)": [
                 "The Narrows",
-                "Sweetwater Farm"
+                "Sweetwater Farm",
+                "The Eastern Road"
             ],
             "completed": false
         }
@@ -139,12 +139,12 @@
             "name": "Fennel",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fennel.png?15d44c",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
-                "The Narrows"
+            "location(s)": [
+                "The Narrows",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -152,12 +152,12 @@
             "name": "Fiddlehead",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fiddlehead.png?593e0f",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "Sweetwater Farm",
-                "The Narrows"
+            "location(s)": [
+                "The Narrows",
+                "Sweetwater Farm"
             ],
             "completed": false
         },
@@ -165,10 +165,10 @@
             "name": "Morel Mushroom",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Morel_mushroom.png?9b20c9",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "No set spawn area, rarely spawn anywhere in the overworld."
             ],
             "completed": false
@@ -177,12 +177,12 @@
             "name": "Nettle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Nettle.png?36b1cf",
             "source(s)": [
-                "Balor's Wagon",
                 "Spring",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -191,15 +191,15 @@
             "name": "Wild Leek",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Wild_leek.png?25b8df",
             "source(s)": [
-                "Balor's Wagon",
                 "Spring",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
+            "location(s)": [
                 "The Narrows",
-                "Mistria"
+                "Mistria",
+                "The Eastern Road"
             ],
             "completed": false
         }
@@ -209,50 +209,50 @@
             "name": "Chili Pepper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Chili_pepper.png?ebfc25",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Corn",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Corn.png?a10db5",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Cucumber",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cucumber.png?ac8b1c",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Tomato",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Tomato.png?a3f9b3",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Watermelon",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Watermelon.png?467527",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         }
     ],
@@ -261,13 +261,13 @@
             "name": "Catmint",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Catmint.png?53d4c7",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Narrows"
             ],
             "completed": false
@@ -276,13 +276,13 @@
             "name": "Cosmos",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cosmos.png?7ba0dd",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -291,17 +291,17 @@
             "name": "Daisy",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Daisy.png?d28c8a",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
-                "Sweetwater Farm",
+            "location(s)": [
                 "The Narrows",
-                "The Western Ruins"
+                "The Eastern Road",
+                "The Western Ruins",
+                "Sweetwater Farm"
             ],
             "completed": false
         },
@@ -309,15 +309,15 @@
             "name": "Iris",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Iris.png?561ee9",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
+            "location(s)": [
                 "The Narrows",
+                "The Beach",
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -326,13 +326,13 @@
             "name": "Marigold",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Marigold.png?f49872",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods",
                 "The Western Ruins"
             ],
@@ -344,13 +344,13 @@
             "name": "Basil",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Basil.png?674fff",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road"
             ],
             "completed": false
@@ -359,16 +359,16 @@
             "name": "Dill",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Dill.png?e3933e",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
+            "location(s)": [
                 "The Narrows",
-                "The Western Ruins"
+                "The Western Ruins",
+                "The Beach"
             ],
             "completed": false
         },
@@ -376,13 +376,13 @@
             "name": "Oregano",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Oregano.png?d0936d",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Mistria"
             ],
             "completed": false
@@ -391,15 +391,15 @@
             "name": "Sage",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sage.png?5ab90b",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
-                "The Narrows"
+            "location(s)": [
+                "The Narrows",
+                "The Beach"
             ],
             "completed": false
         },
@@ -407,13 +407,13 @@
             "name": "Thyme",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Thyme.png?72249f",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Summer",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -424,13 +424,13 @@
             "name": "Apple",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Apple.png?bfa8b3",
             "source(s)": [
-                "Balor's Wagon",
-                "The Eastern Road",
-                "Dell/Quests",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "The Eastern Road",
+                "Balor's Wagon",
+                "Dell/Quests"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road"
             ],
             "completed": false
@@ -439,40 +439,40 @@
             "name": "Broccoli",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Broccoli.png?30b67c",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Cranberry",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cranberry.png?5b732c",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Pumpkin",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Pumpkin.png?20d1e4",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Sweet Potato",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sweet_potato.png?78b4e5",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         }
     ],
@@ -481,21 +481,21 @@
             "name": "Celosia",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Celosia.png?5d3ec5",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Chrysanthemum",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Chrysanthemum.png?4b937b",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
@@ -503,13 +503,13 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fog_orchid.png?bf2bd7",
             "source(s)": [
                 "Fall",
-                "Balor's Wagon",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
-                "The Western Ruins"
+            "location(s)": [
+                "The Western Ruins",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -517,17 +517,17 @@
             "name": "Heather",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Heather.png?d6b9bd",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
                 "Dates",
-                "Fall",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Fall",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
+            "location(s)": [
                 "The Narrows",
-                "Mistria"
+                "Mistria",
+                "The Beach"
             ],
             "completed": false
         },
@@ -535,11 +535,11 @@
             "name": "Viola",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Viola.png?961d0a",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road"
             ],
             "completed": false
@@ -551,13 +551,13 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Chestnut.png?33615d",
             "source(s)": [
                 "Fall",
-                "Balor's Wagon",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
+            "location(s)": [
                 "The Narrows",
+                "The Beach",
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -566,13 +566,13 @@
             "name": "Garlic",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Garlic.png?6941c1",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
-                "Fall",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Fall",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road (in the ruins)"
             ],
             "completed": false
@@ -582,14 +582,14 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Horseradish.png?72ccb7",
             "source(s)": [
                 "Fall",
-                "Balor's Wagon",
+                "Forageables",
                 "Pets",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road",
-                "Sweetwater Farm",
-                "The Beach"
+                "The Beach",
+                "Sweetwater Farm"
             ],
             "completed": false
         },
@@ -597,11 +597,11 @@
             "name": "Moon Fruit",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Moon_fruit.png?9abfb3",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm",
                 "The Beach",
                 "The Eastern Road , near the Wishing Well"
@@ -612,13 +612,13 @@
             "name": "Rosemary",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Rosemary.png?880ad8",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
-                "Fall",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Fall",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -629,42 +629,42 @@
             "name": "Beet",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Beet.png?906797",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Cauliflower",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cauliflower.png?84a1b0",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Daikon Radish",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Daikon_radish.png?8c7a76",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         },
         {
             "name": "Pomegranate",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Pomegranate.png?ba69ad",
             "source(s)": [
-                "Balor's Wagon",
                 "The Narrows",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Narrows"
             ],
             "completed": false
@@ -673,10 +673,10 @@
             "name": "Snow Peas",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Snow_peas.png?19b20f",
             "source(s)": [
-                "Balor's Wagon",
-                "Farming"
+                "Farming",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [],
+            "location(s)": [],
             "completed": false
         }
     ],
@@ -686,14 +686,14 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Crocus.png?9fba3c",
             "source(s)": [
                 "Balor's Wagon",
+                "Forageables",
                 "Pets",
-                "Winter",
-                "Forageables"
+                "Winter"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
+            "location(s)": [
+                "Sweetwater Farm",
                 "The Beach",
-                "Sweetwater Farm"
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -701,16 +701,16 @@
             "name": "Frost Lily",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Frost_lily.png?366ced",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
-                "Winter",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Winter",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
+            "location(s)": [
                 "The Narrows",
-                "The Beach"
+                "The Beach",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -718,13 +718,13 @@
             "name": "Jasmine",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Jasmine.png?db70cd",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
-                "Winter",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Winter",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Eastern Road",
                 "Sweetwater Farm"
             ],
@@ -734,13 +734,13 @@
             "name": "Poinsettia",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Poinsettia.png?b8136d",
             "source(s)": [
-                "Balor's Wagon",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Beach",
+            "location(s)": [
                 "The Narrows",
+                "The Beach",
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -749,14 +749,14 @@
             "name": "Snapdragon",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Snapdragon.png?38edc9",
             "source(s)": [
+                "Forageables",
+                "Farming",
                 "Pets",
                 "Winter",
-                "Balor's Wagon",
                 "Western Ruins",
-                "Farming",
-                "Forageables"
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Western Ruins"
             ],
             "completed": false
@@ -767,17 +767,17 @@
             "name": "Burdock Root",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Burdock_root.png?9584e1",
             "source(s)": [
-                "Pets",
-                "Balor's Wagon",
-                "Winter",
+                "Forageables",
                 "Farming",
-                "Forageables"
+                "Pets",
+                "Winter",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Narrows (north)",
+            "location(s)": [
                 "(appears as purple flowers)",
-                "The Eastern Road",
-                "Mistria"
+                "Mistria",
+                "The Narrows (north)",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -785,12 +785,12 @@
             "name": "Holly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Holly.png?3b62e8",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
-                "Sweetwater Farm"
+            "location(s)": [
+                "Sweetwater Farm",
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -799,14 +799,14 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Oyster_mushroom.png?25c214",
             "source(s)": [
                 "Balor's Wagon",
+                "Forageables",
                 "Pets",
-                "Winter",
-                "Forageables"
+                "Winter"
             ],
-            "known_location(s)": [
-                "The Eastern Road",
+            "location(s)": [
+                "Mistria",
                 "The Beach",
-                "Mistria"
+                "The Eastern Road"
             ],
             "completed": false
         },
@@ -814,10 +814,10 @@
             "name": "Pineshroom",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Pineshroom.png?91d8b6",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Sweetwater Farm"
             ],
             "completed": false
@@ -826,10 +826,10 @@
             "name": "Rose Hip",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Rose_hip.png?888441",
             "source(s)": [
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Manor's Gardens (grows on the bushes near the gazebo) Mistria"
             ],
             "completed": false
@@ -841,10 +841,10 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Thorn_vine.png?ae370a",
             "source(s)": [
                 "The Deep Woods",
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods"
             ],
             "completed": false
@@ -854,10 +854,10 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Spirit_mushroom.png?d86b94",
             "source(s)": [
                 "The Deep Woods",
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods"
             ],
             "completed": false
@@ -867,10 +867,10 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Temple_flower.png?49b73e",
             "source(s)": [
                 "The Deep Woods",
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods"
             ],
             "completed": false
@@ -880,10 +880,10 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Walnut.png?5d08dc",
             "source(s)": [
                 "The Deep Woods",
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods"
             ],
             "completed": false
@@ -893,10 +893,10 @@
             "img_url": "https://fieldsofmistria.wiki.gg/images/Bell_berry.png?2519d6",
             "source(s)": [
                 "The Deep Woods",
-                "Balor's Wagon",
-                "Forageables"
+                "Forageables",
+                "Balor's Wagon"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Woods"
             ],
             "completed": false
@@ -909,7 +909,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Upper Mines"
             ],
             "completed": false
@@ -920,7 +920,7 @@
             "source(s)": [
                 "Mushroom (Monster)"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Upper Mines"
             ],
             "completed": false
@@ -931,7 +931,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Upper Mines"
             ],
             "completed": false
@@ -942,7 +942,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Upper Mines"
             ],
             "completed": false
@@ -953,7 +953,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Upper Mines"
             ],
             "completed": false
@@ -966,7 +966,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Tide Caverns"
             ],
             "completed": false
@@ -977,7 +977,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Tide Caverns"
             ],
             "completed": false
@@ -988,7 +988,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Tide Caverns"
             ],
             "completed": false
@@ -999,7 +999,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Tide Caverns"
             ],
             "completed": false
@@ -1010,7 +1010,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Tide Caverns"
             ],
             "completed": false
@@ -1023,7 +1023,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Earth"
             ],
             "completed": false
@@ -1034,7 +1034,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Earth"
             ],
             "completed": false
@@ -1045,7 +1045,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Earth"
             ],
             "completed": false
@@ -1056,7 +1056,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Earth"
             ],
             "completed": false
@@ -1067,7 +1067,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Deep Earth"
             ],
             "completed": false
@@ -1080,7 +1080,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Lava Caves"
             ],
             "completed": false
@@ -1091,7 +1091,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Lava Caves"
             ],
             "completed": false
@@ -1102,7 +1102,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Lava Caves"
             ],
             "completed": false
@@ -1113,7 +1113,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Lava Caves"
             ],
             "completed": false
@@ -1124,7 +1124,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Lava Caves"
             ],
             "completed": false
@@ -1137,7 +1137,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false
@@ -1148,7 +1148,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false
@@ -1159,7 +1159,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false
@@ -1170,7 +1170,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false
@@ -1181,7 +1181,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false
@@ -1194,7 +1194,7 @@
             "source(s)": [
                 "Forageables"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Any Floor Without a Seal (Requires Void Sight)"
             ],
             "completed": false
@@ -1205,7 +1205,7 @@
             "source(s)": [
                 "Fishing"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Any Floor Without a Seal (Requires Void Sight)"
             ],
             "completed": false
@@ -1216,7 +1216,7 @@
             "source(s)": [
                 "Monsters"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Any Floor Without a Seal (Requires Void Sight)"
             ],
             "completed": false
@@ -1227,7 +1227,7 @@
             "source(s)": [
                 "Void Stone"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "Any Floor Without a Seal (Requires Void Sight)"
             ],
             "completed": false
@@ -1238,7 +1238,7 @@
             "source(s)": [
                 "Voidite"
             ],
-            "known_location(s)": [
+            "location(s)": [
                 "The Ancient Ruins"
             ],
             "completed": false

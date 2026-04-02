@@ -69,7 +69,7 @@ def scrape_flw():
                         "name": name,
                         "img_url": img_url,
                         "source(s)": sources,
-                        "known_location(s)": final_loc,
+                        "location(s)": final_loc,
                         "completed": False # default
                     })
 

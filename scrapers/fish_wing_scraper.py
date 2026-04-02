@@ -54,6 +54,7 @@ def scrape_fw():
                     name = row[name_index].get_text(strip=True)
                     location = row[location_index].get_text(separator=" ", strip=True)
                     location = re.sub(r"\s+\)", ")", location) # cleanup text "s+)" into ")"
+                    location = [location] # converted to list for consistent data type across all JSON files
 
                     if weather_index is not None:
                         a_tags = row[weather_index].find_all("a")
@@ -75,7 +76,7 @@ def scrape_fw():
                     rows.append({
                         "name": name,
                         "img_url": img_url,
-                        "location": location,
+                        "location(s)": location,
                         "weather": weather,
                         "rarity": rarity,
                         "size": size,

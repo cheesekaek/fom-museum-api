@@ -3,17 +3,19 @@
         {
             "name": "Ant",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Ant.png?ed4cf8",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
-                "Rainy",
                 "Rain",
                 "Wind",
+                "Rainy",
                 "Sunny"
             ],
             "rarity": "Common",
@@ -22,11 +24,13 @@
         {
             "name": "Bumblebee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Bumblebee.png?f001c1",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 8 PM",
             "weather": [
@@ -39,7 +43,9 @@
         {
             "name": "Fuzzy Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fuzzy_moth.png?afb946",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -54,11 +60,13 @@
         {
             "name": "Hummingbird Hawk Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Hummingbird_hawk_moth.png?8e3c10",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
@@ -70,11 +78,13 @@
         {
             "name": "Praying Mantis",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Praying_mantis.png?67d1d7",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 8 PM",
             "weather": [
@@ -89,7 +99,9 @@
         {
             "name": "Butterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Butterfly.png?538c53",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
@@ -104,15 +116,17 @@
         {
             "name": "Caterpillar",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Caterpillar.png?ccb8dd",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
-                "Rainy",
                 "Rain",
                 "Wind",
+                "Rainy",
                 "Sunny"
             ],
             "rarity": "Common",
@@ -121,15 +135,17 @@
         {
             "name": "Ladybug",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Ladybug.png?a79482",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
-                "Rainy",
                 "Rain",
                 "Wind",
+                "Rainy",
                 "Sunny"
             ],
             "rarity": "Common",
@@ -138,7 +154,9 @@
         {
             "name": "Luna Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Luna_moth.png?5766de",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
@@ -153,7 +171,9 @@
         {
             "name": "Roly Poly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Roly_poly.png?6383d5",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
@@ -169,7 +189,9 @@
         {
             "name": "Cicada",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cicada.png?e05797",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -183,7 +205,9 @@
         {
             "name": "Cricket",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cricket.png?736195",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -197,7 +221,9 @@
         {
             "name": "Dragonfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Dragonfly.png?55f3be",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -213,7 +239,9 @@
         {
             "name": "Firefly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Firefly.png?ef3c15",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -227,7 +255,9 @@
         {
             "name": "Sand Bug",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sand_bug.png?f5b238",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -243,7 +273,9 @@
         {
             "name": "Cicada Nymph",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cicada_nymph.png?77fd7c",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -257,7 +289,9 @@
         {
             "name": "Inchworm",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Inchworm.png?ed963b",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -271,7 +305,9 @@
         {
             "name": "Monarch Butterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Monarch_butterfly.png?55fe6f",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -286,7 +322,9 @@
         {
             "name": "Tiger Swallowtail Butterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Tiger_swallowtail_butterfly.png?5f5c37",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -301,7 +339,9 @@
         {
             "name": "Walking Leaf",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Walking_leaf.png?451fa5",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -317,7 +357,9 @@
         {
             "name": "Brightbulb Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Brightbulb_moth.png?4204bd",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -331,14 +373,16 @@
         {
             "name": "Crystal Caterpillar",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_caterpillar.png?ad66f8",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
-                "Snow",
-                "Blizzard"
+                "Blizzard",
+                "Snow"
             ],
             "rarity": "Rare",
             "completed": false
@@ -346,7 +390,9 @@
         {
             "name": "Frost Flutter Butterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Frost_flutter_butterfly.png?a56676",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -360,7 +406,9 @@
         {
             "name": "Walking Stick",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Walking_stick.png?991388",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -374,7 +422,9 @@
         {
             "name": "Winterpillar",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Winterpillar.png?89268f",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -390,11 +440,13 @@
         {
             "name": "Big Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Big_bee.png?b59b59",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 8 PM",
             "weather": [
@@ -407,7 +459,9 @@
         {
             "name": "Flower Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Flower_bee.png?2747d9",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -422,7 +476,9 @@
         {
             "name": "Fur Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fur_bee.png?ca4fcb",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -436,7 +492,9 @@
         {
             "name": "Moonlight Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Moonlight_bee.png?926ed5",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -451,7 +509,9 @@
         {
             "name": "Sweet Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sweet_bee.png?faa345",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -468,7 +528,9 @@
         {
             "name": "Ant Queen",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Ant_queen.png?130305",
-            "location": "Overworld (requires use of Bug Pheromones )",
+            "location(s)": [
+                "Overworld (requires use of Bug Pheromones )"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -482,7 +544,9 @@
         {
             "name": "Biggest Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Biggest_beetle.png?f293f1",
-            "location": "Overworld (requires use of Bug Pheromones )",
+            "location(s)": [
+                "Overworld (requires use of Bug Pheromones )"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -496,7 +560,9 @@
         {
             "name": "Queen's Birdwing",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Queen%27s_birdwing.png?47c853",
-            "location": "Overworld (requires use of Bug Pheromones )",
+            "location(s)": [
+                "Overworld (requires use of Bug Pheromones )"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -510,7 +576,9 @@
         {
             "name": "Saint Mantis",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Saint_mantis.png?5cf9bc",
-            "location": "Overworld (requires use of Bug Pheromones )",
+            "location(s)": [
+                "Overworld (requires use of Bug Pheromones )"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -524,7 +592,9 @@
         {
             "name": "Sunset Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sunset_moth.png?f2b1b0",
-            "location": "Overworld (requires use of Bug Pheromones )",
+            "location(s)": [
+                "Overworld (requires use of Bug Pheromones )"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -540,7 +610,9 @@
         {
             "name": "Jewel Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Jewel_beetle.png?a0d188",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -554,11 +626,13 @@
         {
             "name": "Lightning Dragonfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Lightning_dragonfly.png?382178",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 8 PM",
             "weather": [
@@ -571,7 +645,9 @@
         {
             "name": "Magma Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Magma_beetle.png?22c295",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -585,7 +661,9 @@
         {
             "name": "Mistmoth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Mistmoth.png?88e8fd",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -600,15 +678,17 @@
         {
             "name": "Orchid Mantis",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Orchid_mantis.png?a94f65",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
             "time_range": "6 AM - 8 PM",
             "weather": [
-                "Rainy",
                 "Rain",
                 "Wind",
+                "Rainy",
                 "Sunny"
             ],
             "rarity": "Rare",
@@ -619,7 +699,9 @@
         {
             "name": "Fairy Bee",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fairy_bee.png?41b5b8",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -634,7 +716,9 @@
         {
             "name": "Flower Crown Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Flower_crown_beetle.png?79b197",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
@@ -649,7 +733,9 @@
         {
             "name": "Snowball Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Snowball_beetle.png?a35e4e",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -663,17 +749,19 @@
         {
             "name": "Speedy Snail",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Speedy_snail.png?d7deda",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
-                "Rainy",
                 "Rain",
                 "Wind",
+                "Rainy",
                 "Sunny"
             ],
             "rarity": "Legendary",
@@ -682,7 +770,9 @@
         {
             "name": "Strobe Firefly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Strobe_firefly.png?81f6ae",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -698,7 +788,9 @@
         {
             "name": "Copper Nugget Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Copper_nugget_beetle.png?d016cc",
-            "location": "The Upper Mines (floors 1-19)",
+            "location(s)": [
+                "The Upper Mines (floors 1-19)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -712,7 +804,9 @@
         {
             "name": "Lantern Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Lantern_moth.png?e75541",
-            "location": "The Upper Mines (floors 1-19)",
+            "location(s)": [
+                "The Upper Mines (floors 1-19)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -726,7 +820,9 @@
         {
             "name": "Mine Cricket",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Mine_cricket.png?508901",
-            "location": "The Upper Mines (floors 1-19)",
+            "location(s)": [
+                "The Upper Mines (floors 1-19)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -740,7 +836,9 @@
         {
             "name": "Tunnel Millipede",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Tunnel_millipede.png?3df806",
-            "location": "The Upper Mines (floors 1-19)",
+            "location(s)": [
+                "The Upper Mines (floors 1-19)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -754,7 +852,9 @@
         {
             "name": "Worm",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Worm.png?caf317",
-            "location": "The Upper Mines (floors 1-19)",
+            "location(s)": [
+                "The Upper Mines (floors 1-19)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -770,7 +870,9 @@
         {
             "name": "Coral Mantis",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Coral_mantis.png?bcdb69",
-            "location": "The Tide Caverns (floors 21-39)",
+            "location(s)": [
+                "The Tide Caverns (floors 21-39)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -784,7 +886,9 @@
         {
             "name": "Hermit Snail",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Hermit_snail.png?688569",
-            "location": "The Tide Caverns (floors 21-39)",
+            "location(s)": [
+                "The Tide Caverns (floors 21-39)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -798,7 +902,9 @@
         {
             "name": "Puddle Spider",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Puddle_spider.png?cc0204",
-            "location": "The Tide Caverns (floors 21-39)",
+            "location(s)": [
+                "The Tide Caverns (floors 21-39)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -812,7 +918,9 @@
         {
             "name": "Sea Scarab",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_scarab.png?2cba3f",
-            "location": "The Tide Caverns (floors 21-39)",
+            "location(s)": [
+                "The Tide Caverns (floors 21-39)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -826,7 +934,9 @@
         {
             "name": "Waterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Waterfly.png?f14013",
-            "location": "The Tide Caverns (floors 21-39)",
+            "location(s)": [
+                "The Tide Caverns (floors 21-39)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -842,7 +952,9 @@
         {
             "name": "Crystal Wing Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_wing_moth.png?26cc34",
-            "location": "The Deep Earth (floors 41-59)",
+            "location(s)": [
+                "The Deep Earth (floors 41-59)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -856,7 +968,9 @@
         {
             "name": "Crystalline Cricket",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Crystalline_cricket.png?fe8c15",
-            "location": "The Deep Earth (floors 41-59)",
+            "location(s)": [
+                "The Deep Earth (floors 41-59)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -870,7 +984,9 @@
         {
             "name": "Deep Earthworm",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Deep_earthworm.png?129edb",
-            "location": "The Deep Earth (floors 41-59)",
+            "location(s)": [
+                "The Deep Earth (floors 41-59)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -884,7 +1000,9 @@
         {
             "name": "Gem Shard Caterpillar",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Gem_shard_caterpillar.png?142ccf",
-            "location": "The Deep Earth (floors 41-59)",
+            "location(s)": [
+                "The Deep Earth (floors 41-59)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -898,7 +1016,9 @@
         {
             "name": "Rock Roach",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_roach.png?fe76c2",
-            "location": "The Deep Earth (floors 41-59)",
+            "location(s)": [
+                "The Deep Earth (floors 41-59)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -914,7 +1034,9 @@
         {
             "name": "Fire Wasp",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Fire_wasp.png?3836a4",
-            "location": "The Lava Caves (floors 61-79)",
+            "location(s)": [
+                "The Lava Caves (floors 61-79)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -928,7 +1050,9 @@
         {
             "name": "Cooktop Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Cooktop_beetle.png?60fd24",
-            "location": "The Lava Caves (floors 61-79)",
+            "location(s)": [
+                "The Lava Caves (floors 61-79)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -942,7 +1066,9 @@
         {
             "name": "Lava Snail",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Lava_snail.png?e73ca5",
-            "location": "The Lava Caves (floors 61-79)",
+            "location(s)": [
+                "The Lava Caves (floors 61-79)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -956,7 +1082,9 @@
         {
             "name": "Smoke Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Smoke_moth.png?8de6da",
-            "location": "The Lava Caves (floors 61-79)",
+            "location(s)": [
+                "The Lava Caves (floors 61-79)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -970,7 +1098,9 @@
         {
             "name": "Diamond Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Diamond_beetle.png?955a72",
-            "location": "The Lava Caves (floors 61-79)",
+            "location(s)": [
+                "The Lava Caves (floors 61-79)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -986,7 +1116,9 @@
         {
             "name": "Ancient Firefly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_firefly.png?e05136",
-            "location": "The Ancient Ruins (floors 81-99)",
+            "location(s)": [
+                "The Ancient Ruins (floors 81-99)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1000,7 +1132,9 @@
         {
             "name": "Giant Worm",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_worm.png?b590f4",
-            "location": "The Ancient Ruins (floors 81-99)",
+            "location(s)": [
+                "The Ancient Ruins (floors 81-99)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1014,7 +1148,9 @@
         {
             "name": "Hidden Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Hidden_beetle.png?380042",
-            "location": "The Ancient Ruins (floors 81-99)",
+            "location(s)": [
+                "The Ancient Ruins (floors 81-99)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1028,7 +1164,9 @@
         {
             "name": "Parchment Moth",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Parchment_moth.png?525d1d",
-            "location": "The Ancient Ruins (floors 81-99)",
+            "location(s)": [
+                "The Ancient Ruins (floors 81-99)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1042,7 +1180,9 @@
         {
             "name": "Void Snail",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Void_snail.png?b41bfb",
-            "location": "The Ancient Ruins (floors 81-99)",
+            "location(s)": [
+                "The Ancient Ruins (floors 81-99)"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1058,11 +1198,13 @@
         {
             "name": "Grasshopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Grasshopper.png?dc10f2",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
-                "Summer",
                 "Fall",
-                "Spring"
+                "Spring",
+                "Summer"
             ],
             "time_range": "6 AM - 2 AM",
             "weather": [
@@ -1075,7 +1217,9 @@
         {
             "name": "Icehopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Icehopper.png?e5be42",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Winter"
             ],
@@ -1089,7 +1233,9 @@
         {
             "name": "Leafhopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Leafhopper.png?2fc4fb",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Fall"
             ],
@@ -1103,7 +1249,9 @@
         {
             "name": "Petalhopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Petalhopper.png?4ef853",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Spring"
             ],
@@ -1117,7 +1265,9 @@
         {
             "name": "Strawhopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Strawhopper.png?778ea1",
-            "location": "Overworld",
+            "location(s)": [
+                "Overworld"
+            ],
             "season(s)": [
                 "Summer"
             ],
@@ -1133,7 +1283,9 @@
         {
             "name": "Beach Hopper",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Beach_hopper.png?99b6be",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1147,7 +1299,9 @@
         {
             "name": "Hermit Crab",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Hermit_crab.png?bb4645",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1161,7 +1315,9 @@
         {
             "name": "Relic Crab",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Relic_crab.png?d0819d",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1175,7 +1331,9 @@
         {
             "name": "Surf Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Surf_beetle.png?946dfd",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1189,7 +1347,9 @@
         {
             "name": "Waterbug",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Waterbug.png?a861e4",
-            "location": "The Beach",
+            "location(s)": [
+                "The Beach"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1205,7 +1365,9 @@
         {
             "name": "Windleaf Butterfly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Windleaf_butterfly.png?51782f",
-            "location": "The Deep Woods",
+            "location(s)": [
+                "The Deep Woods"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1220,7 +1382,9 @@
         {
             "name": "Mote Firefly",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Mote_firefly.png?509241",
-            "location": "The Deep Woods",
+            "location(s)": [
+                "The Deep Woods"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1235,7 +1399,9 @@
         {
             "name": "Loam Caterpillar",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Loam_caterpillar.png?de5ce7",
-            "location": "The Deep Woods",
+            "location(s)": [
+                "The Deep Woods"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1249,7 +1415,9 @@
         {
             "name": "Dragon Horn Beetle",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_horn_beetle.png?3292fd",
-            "location": "The Deep Woods",
+            "location(s)": [
+                "The Deep Woods"
+            ],
             "season(s)": [
                 "All"
             ],
@@ -1263,7 +1431,9 @@
         {
             "name": "Singing Katydid",
             "img_url": "https://fieldsofmistria.wiki.gg/images/Singing_katydid.png?dfc28a",
-            "location": "The Deep Woods",
+            "location(s)": [
+                "The Deep Woods"
+            ],
             "season(s)": [
                 "All"
             ],
