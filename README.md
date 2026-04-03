@@ -11,6 +11,7 @@ fom-museum-api/
 ├── app/ # Models and script to populate database
 ├── data/ # Generated JSON datasets using scrapers
 ├── scrapers/ # Scrapers for each wing + image scraper for each img url stored in JSON
+├── static/images # all static images
 ├── .gitignore
 ├── main.py # API entrypoint
 ├── README.md
