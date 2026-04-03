@@ -1,4 +1,5 @@
-import os, json
+import json
+from pathlib import Path
 
 from starlette.responses import JSONResponse
 
@@ -18,13 +19,13 @@ MUSEUM_WINGS = {
     "insects-wing": scrape_iw
 }
 
-DATA_DIR = "data"
-os.makedirs(DATA_DIR, exist_ok=True)
+DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR.mkdir(exist_ok=True)
 
-def save_json_file(f: str, data: dict):
-    path = os.path.join(DATA_DIR, f)
-    with open(path, "w") as filename:
-        json.dump(data, filename, indent=4, default=list)
+def save_json_file(filename: str, data: dict):
+    path = DATA_DIR / filename
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, default=list)
     return path
 
 # individual wing scraper
@@ -36,7 +37,7 @@ def generate_wing(wing: str):
     save_json_file(f"{wing}.json", data)
     return JSONResponse({"message": f"{wing}.json generated", "sets": list(data.keys())})
 
-# individual wing JSON file refresher
+# JSON file refresher
 @app.post("/refresh/{wing}")
 def refresh_wing(wing: str):
     if wing not in MUSEUM_WINGS:
@@ -44,28 +45,6 @@ def refresh_wing(wing: str):
     data = MUSEUM_WINGS[wing]()
     save_json_file(f"{wing}.json", data)
     return JSONResponse({"message": f"{wing}.json refreshed", "sets": list(data.keys())})
-
-# combined wings scraper
-@app.post("/generate/all")
-def generate_all():
-    combined = {}
-    for wing, scraper in MUSEUM_WINGS.items():
-        data = scraper()
-        save_json_file(f"{wing}.json", data)
-        combined[wing] = data
-    save_json_file("all_wings.json", combined)
-    return JSONResponse({"message": "all_wings.json generated", "wings": list(MUSEUM_WINGS.keys())})
-
-# combined wings refresher
-@app.post("/refresh/all")
-def refresh_all():
-    combined = {}
-    for wing, scraper in MUSEUM_WINGS.items():
-        data = scraper()
-        save_json_file(f"{wing}.json", data)
-        combined[wing] = data
-    save_json_file("all_wings.json", combined)
-    return JSONResponse({"message": "all_wings.json refreshed", "wings": list(MUSEUM_WINGS.keys())})
 
 @app.get("/")
 def hello():
