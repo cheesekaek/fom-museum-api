@@ -8,11 +8,14 @@ A Python scraper and API for [Fields of Mistria](https://fieldsofmistria.wiki.gg
 ```
 fom-museum-api/
 │
-├── data/ # Generated JSON datasets used by the API
-├── scrapers/ # Scripts for each scraper, corresponding to each museum wing (insects, fish, flora, archaeology)
-├── .gitignore # gitignore ( ͠° ͟ʖ ͡°)
+├── app/ # Models and script to populate database
+├── data/ # Generated JSON datasets using scrapers
+├── scrapers/ # Scrapers for each wing + image scraper for each img url stored in JSON
+├── .gitignore
 ├── main.py # API entrypoint
-└── README.md # The one you're reading rn ;)
+├── README.md
+├── database.db # database generated 
+└── requirements.txt # packages txt
 ```
 ---
 
@@ -36,9 +39,8 @@ Swagger UI:
 | ---------------------- | ---------------------------------------------------- |
 | `GET /`                | List all available endpoints and wings               |
 | `GET /generate/{wing}` | Scrapes data and generates JSON for a specific wing  |
-| `GET /generate/all`    | Scrapes data and generates JSON for all wings        |
 | `GET /refresh/{wing}`  | Re-scrapes data and updates JSON for a specific wing |
-| `GET /refresh/all`     | Re-scrapes data and updates JSON for all wings       |
+
 
 Valid {wing} names:
 insects-wing, fish-wing, archaeology-wing, flora-wing
@@ -46,7 +48,8 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 ---
 
 ## WIP (●'◡'●)
-* Endpoints: ```/refresh/all``` hasn't been tested
+* ```POST``` and ```GET``` methods that work with the database
+* Frontend 💔
 
 ---
 
