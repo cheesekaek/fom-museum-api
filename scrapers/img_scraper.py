@@ -58,7 +58,7 @@ for json_path, wing_name in all_wings:
                 time.sleep(5)
 
             if success:
-                item["img_url"] = dest.as_posix() # filepath added to JSON
+                item["img_url"] = dest.as_posix() # filepath added to JSON (changed to posix if images needed for frontend)
             else:
                 print(f" Failed to download: {url}") # mention failed download in JSON
 
