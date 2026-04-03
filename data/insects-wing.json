@@ -2,7 +2,7 @@
     "Multi-Season": [
         {
             "name": "Ant",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ant.png?ed4cf8",
+            "img_url": "static/images/insects/Ant.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -23,7 +23,7 @@
         },
         {
             "name": "Bumblebee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bumblebee.png?f001c1",
+            "img_url": "static/images/insects/Bumblebee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -42,7 +42,7 @@
         },
         {
             "name": "Fuzzy Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fuzzy_moth.png?afb946",
+            "img_url": "static/images/insects/Fuzzy_moth.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -59,7 +59,7 @@
         },
         {
             "name": "Hummingbird Hawk Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hummingbird_hawk_moth.png?8e3c10",
+            "img_url": "static/images/insects/Hummingbird_hawk_moth.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -77,7 +77,7 @@
         },
         {
             "name": "Praying Mantis",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Praying_mantis.png?67d1d7",
+            "img_url": "static/images/insects/Praying_mantis.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -98,7 +98,7 @@
     "Spring": [
         {
             "name": "Butterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Butterfly.png?538c53",
+            "img_url": "static/images/insects/Butterfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -115,7 +115,7 @@
         },
         {
             "name": "Caterpillar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Caterpillar.png?ccb8dd",
+            "img_url": "static/images/insects/Caterpillar.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -134,7 +134,7 @@
         },
         {
             "name": "Ladybug",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ladybug.png?a79482",
+            "img_url": "static/images/insects/Ladybug.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -153,7 +153,7 @@
         },
         {
             "name": "Luna Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Luna_moth.png?5766de",
+            "img_url": "static/images/insects/Luna_moth.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -170,7 +170,7 @@
         },
         {
             "name": "Roly Poly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Roly_poly.png?6383d5",
+            "img_url": "static/images/insects/Roly_poly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -188,7 +188,7 @@
     "Summer": [
         {
             "name": "Cicada",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cicada.png?e05797",
+            "img_url": "static/images/insects/Cicada.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -204,7 +204,7 @@
         },
         {
             "name": "Cricket",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cricket.png?736195",
+            "img_url": "static/images/insects/Cricket.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -220,7 +220,7 @@
         },
         {
             "name": "Dragonfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragonfly.png?55f3be",
+            "img_url": "static/images/insects/Dragonfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -238,7 +238,7 @@
         },
         {
             "name": "Firefly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Firefly.png?ef3c15",
+            "img_url": "static/images/insects/Firefly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -254,7 +254,7 @@
         },
         {
             "name": "Sand Bug",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sand_bug.png?f5b238",
+            "img_url": "static/images/insects/Sand_bug.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -272,7 +272,7 @@
     "Fall": [
         {
             "name": "Cicada Nymph",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cicada_nymph.png?77fd7c",
+            "img_url": "static/images/insects/Cicada_nymph.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -288,7 +288,7 @@
         },
         {
             "name": "Inchworm",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Inchworm.png?ed963b",
+            "img_url": "static/images/insects/Inchworm.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -304,7 +304,7 @@
         },
         {
             "name": "Monarch Butterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Monarch_butterfly.png?55fe6f",
+            "img_url": "static/images/insects/Monarch_butterfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -321,7 +321,7 @@
         },
         {
             "name": "Tiger Swallowtail Butterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tiger_swallowtail_butterfly.png?5f5c37",
+            "img_url": "static/images/insects/Tiger_swallowtail_butterfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -338,7 +338,7 @@
         },
         {
             "name": "Walking Leaf",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Walking_leaf.png?451fa5",
+            "img_url": "static/images/insects/Walking_leaf.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -356,7 +356,7 @@
     "Winter": [
         {
             "name": "Brightbulb Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Brightbulb_moth.png?4204bd",
+            "img_url": "static/images/insects/Brightbulb_moth.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -372,7 +372,7 @@
         },
         {
             "name": "Crystal Caterpillar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_caterpillar.png?ad66f8",
+            "img_url": "static/images/insects/Crystal_caterpillar.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -389,7 +389,7 @@
         },
         {
             "name": "Frost Flutter Butterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Frost_flutter_butterfly.png?a56676",
+            "img_url": "static/images/insects/Frost_flutter_butterfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -405,7 +405,7 @@
         },
         {
             "name": "Walking Stick",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Walking_stick.png?991388",
+            "img_url": "static/images/insects/Walking_stick.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -421,7 +421,7 @@
         },
         {
             "name": "Winterpillar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Winterpillar.png?89268f",
+            "img_url": "static/images/insects/Winterpillar.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -439,7 +439,7 @@
     "Bee": [
         {
             "name": "Big Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Big_bee.png?b59b59",
+            "img_url": "static/images/insects/Big_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -458,7 +458,7 @@
         },
         {
             "name": "Flower Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Flower_bee.png?2747d9",
+            "img_url": "static/images/insects/Flower_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -475,7 +475,7 @@
         },
         {
             "name": "Fur Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fur_bee.png?ca4fcb",
+            "img_url": "static/images/insects/Fur_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -491,7 +491,7 @@
         },
         {
             "name": "Moonlight Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Moonlight_bee.png?926ed5",
+            "img_url": "static/images/insects/Moonlight_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -508,7 +508,7 @@
         },
         {
             "name": "Sweet Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sweet_bee.png?faa345",
+            "img_url": "static/images/insects/Sweet_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -527,7 +527,7 @@
     "Bug Pheromone": [
         {
             "name": "Ant Queen",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ant_queen.png?130305",
+            "img_url": "static/images/insects/Ant_queen.png",
             "location(s)": [
                 "Overworld (requires use of Bug Pheromones )"
             ],
@@ -543,7 +543,7 @@
         },
         {
             "name": "Biggest Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Biggest_beetle.png?f293f1",
+            "img_url": "static/images/insects/Biggest_beetle.png",
             "location(s)": [
                 "Overworld (requires use of Bug Pheromones )"
             ],
@@ -559,7 +559,7 @@
         },
         {
             "name": "Queen's Birdwing",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Queen%27s_birdwing.png?47c853",
+            "img_url": "static/images/insects/Queen%27s_birdwing.png",
             "location(s)": [
                 "Overworld (requires use of Bug Pheromones )"
             ],
@@ -575,7 +575,7 @@
         },
         {
             "name": "Saint Mantis",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Saint_mantis.png?5cf9bc",
+            "img_url": "static/images/insects/Saint_mantis.png",
             "location(s)": [
                 "Overworld (requires use of Bug Pheromones )"
             ],
@@ -591,7 +591,7 @@
         },
         {
             "name": "Sunset Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sunset_moth.png?f2b1b0",
+            "img_url": "static/images/insects/Sunset_moth.png",
             "location(s)": [
                 "Overworld (requires use of Bug Pheromones )"
             ],
@@ -609,7 +609,7 @@
     "Rare": [
         {
             "name": "Jewel Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Jewel_beetle.png?a0d188",
+            "img_url": "static/images/insects/Jewel_beetle.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -625,7 +625,7 @@
         },
         {
             "name": "Lightning Dragonfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lightning_dragonfly.png?382178",
+            "img_url": "static/images/insects/Lightning_dragonfly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -644,7 +644,7 @@
         },
         {
             "name": "Magma Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Magma_beetle.png?22c295",
+            "img_url": "static/images/insects/Magma_beetle.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -660,7 +660,7 @@
         },
         {
             "name": "Mistmoth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mistmoth.png?88e8fd",
+            "img_url": "static/images/insects/Mistmoth.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -677,7 +677,7 @@
         },
         {
             "name": "Orchid Mantis",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Orchid_mantis.png?a94f65",
+            "img_url": "static/images/insects/Orchid_mantis.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -698,7 +698,7 @@
     "Legendary": [
         {
             "name": "Fairy Bee",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fairy_bee.png?41b5b8",
+            "img_url": "static/images/insects/Fairy_bee.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -715,7 +715,7 @@
         },
         {
             "name": "Flower Crown Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Flower_crown_beetle.png?79b197",
+            "img_url": "static/images/insects/Flower_crown_beetle.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -732,7 +732,7 @@
         },
         {
             "name": "Snowball Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Snowball_beetle.png?a35e4e",
+            "img_url": "static/images/insects/Snowball_beetle.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -748,7 +748,7 @@
         },
         {
             "name": "Speedy Snail",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Speedy_snail.png?d7deda",
+            "img_url": "static/images/insects/Speedy_snail.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -769,7 +769,7 @@
         },
         {
             "name": "Strobe Firefly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Strobe_firefly.png?81f6ae",
+            "img_url": "static/images/insects/Strobe_firefly.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -787,7 +787,7 @@
     "Upper Mines": [
         {
             "name": "Copper Nugget Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Copper_nugget_beetle.png?d016cc",
+            "img_url": "static/images/insects/Copper_nugget_beetle.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -803,7 +803,7 @@
         },
         {
             "name": "Lantern Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lantern_moth.png?e75541",
+            "img_url": "static/images/insects/Lantern_moth.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -819,7 +819,7 @@
         },
         {
             "name": "Mine Cricket",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mine_cricket.png?508901",
+            "img_url": "static/images/insects/Mine_cricket.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -835,7 +835,7 @@
         },
         {
             "name": "Tunnel Millipede",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tunnel_millipede.png?3df806",
+            "img_url": "static/images/insects/Tunnel_millipede.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -851,7 +851,7 @@
         },
         {
             "name": "Worm",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Worm.png?caf317",
+            "img_url": "static/images/insects/Worm.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -869,7 +869,7 @@
     "Tide Caverns": [
         {
             "name": "Coral Mantis",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Coral_mantis.png?bcdb69",
+            "img_url": "static/images/insects/Coral_mantis.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -885,7 +885,7 @@
         },
         {
             "name": "Hermit Snail",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hermit_snail.png?688569",
+            "img_url": "static/images/insects/Hermit_snail.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -901,7 +901,7 @@
         },
         {
             "name": "Puddle Spider",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Puddle_spider.png?cc0204",
+            "img_url": "static/images/insects/Puddle_spider.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -917,7 +917,7 @@
         },
         {
             "name": "Sea Scarab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_scarab.png?2cba3f",
+            "img_url": "static/images/insects/Sea_scarab.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -933,7 +933,7 @@
         },
         {
             "name": "Waterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Waterfly.png?f14013",
+            "img_url": "static/images/insects/Waterfly.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -951,7 +951,7 @@
     "Deep Earth": [
         {
             "name": "Crystal Wing Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_wing_moth.png?26cc34",
+            "img_url": "static/images/insects/Crystal_wing_moth.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -967,7 +967,7 @@
         },
         {
             "name": "Crystalline Cricket",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystalline_cricket.png?fe8c15",
+            "img_url": "static/images/insects/Crystalline_cricket.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -983,7 +983,7 @@
         },
         {
             "name": "Deep Earthworm",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Deep_earthworm.png?129edb",
+            "img_url": "static/images/insects/Deep_earthworm.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -999,7 +999,7 @@
         },
         {
             "name": "Gem Shard Caterpillar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Gem_shard_caterpillar.png?142ccf",
+            "img_url": "static/images/insects/Gem_shard_caterpillar.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1015,7 +1015,7 @@
         },
         {
             "name": "Rock Roach",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_roach.png?fe76c2",
+            "img_url": "static/images/insects/Rock_roach.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1033,7 +1033,7 @@
     "Lava Caves": [
         {
             "name": "Fire Wasp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fire_wasp.png?3836a4",
+            "img_url": "static/images/insects/Fire_wasp.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1049,7 +1049,7 @@
         },
         {
             "name": "Cooktop Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cooktop_beetle.png?60fd24",
+            "img_url": "static/images/insects/Cooktop_beetle.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1065,7 +1065,7 @@
         },
         {
             "name": "Lava Snail",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lava_snail.png?e73ca5",
+            "img_url": "static/images/insects/Lava_snail.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1081,7 +1081,7 @@
         },
         {
             "name": "Smoke Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Smoke_moth.png?8de6da",
+            "img_url": "static/images/insects/Smoke_moth.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1097,7 +1097,7 @@
         },
         {
             "name": "Diamond Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Diamond_beetle.png?955a72",
+            "img_url": "static/images/insects/Diamond_beetle.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1115,7 +1115,7 @@
     "Ruins": [
         {
             "name": "Ancient Firefly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_firefly.png?e05136",
+            "img_url": "static/images/insects/Ancient_firefly.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1131,7 +1131,7 @@
         },
         {
             "name": "Giant Worm",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_worm.png?b590f4",
+            "img_url": "static/images/insects/Giant_worm.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1147,7 +1147,7 @@
         },
         {
             "name": "Hidden Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hidden_beetle.png?380042",
+            "img_url": "static/images/insects/Hidden_beetle.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1163,7 +1163,7 @@
         },
         {
             "name": "Parchment Moth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Parchment_moth.png?525d1d",
+            "img_url": "static/images/insects/Parchment_moth.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1179,7 +1179,7 @@
         },
         {
             "name": "Void Snail",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Void_snail.png?b41bfb",
+            "img_url": "static/images/insects/Void_snail.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1197,7 +1197,7 @@
     "Grass": [
         {
             "name": "Grasshopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Grasshopper.png?dc10f2",
+            "img_url": "static/images/insects/Grasshopper.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -1216,7 +1216,7 @@
         },
         {
             "name": "Icehopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Icehopper.png?e5be42",
+            "img_url": "static/images/insects/Icehopper.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -1232,7 +1232,7 @@
         },
         {
             "name": "Leafhopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Leafhopper.png?2fc4fb",
+            "img_url": "static/images/insects/Leafhopper.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -1248,7 +1248,7 @@
         },
         {
             "name": "Petalhopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Petalhopper.png?4ef853",
+            "img_url": "static/images/insects/Petalhopper.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -1264,7 +1264,7 @@
         },
         {
             "name": "Strawhopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Strawhopper.png?778ea1",
+            "img_url": "static/images/insects/Strawhopper.png",
             "location(s)": [
                 "Overworld"
             ],
@@ -1282,7 +1282,7 @@
     "Beach": [
         {
             "name": "Beach Hopper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Beach_hopper.png?99b6be",
+            "img_url": "static/images/insects/Beach_hopper.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -1298,7 +1298,7 @@
         },
         {
             "name": "Hermit Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hermit_crab.png?bb4645",
+            "img_url": "static/images/insects/Hermit_crab.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -1314,7 +1314,7 @@
         },
         {
             "name": "Relic Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Relic_crab.png?d0819d",
+            "img_url": "static/images/insects/Relic_crab.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -1330,7 +1330,7 @@
         },
         {
             "name": "Surf Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Surf_beetle.png?946dfd",
+            "img_url": "static/images/insects/Surf_beetle.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -1346,7 +1346,7 @@
         },
         {
             "name": "Waterbug",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Waterbug.png?a861e4",
+            "img_url": "static/images/insects/Waterbug.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -1364,7 +1364,7 @@
     "Deep Woods": [
         {
             "name": "Windleaf Butterfly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Windleaf_butterfly.png?51782f",
+            "img_url": "static/images/insects/Windleaf_butterfly.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1381,7 +1381,7 @@
         },
         {
             "name": "Mote Firefly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mote_firefly.png?509241",
+            "img_url": "static/images/insects/Mote_firefly.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1398,7 +1398,7 @@
         },
         {
             "name": "Loam Caterpillar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Loam_caterpillar.png?de5ce7",
+            "img_url": "static/images/insects/Loam_caterpillar.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1414,7 +1414,7 @@
         },
         {
             "name": "Dragon Horn Beetle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_horn_beetle.png?3292fd",
+            "img_url": "static/images/insects/Dragon_horn_beetle.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1430,7 +1430,7 @@
         },
         {
             "name": "Singing Katydid",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Singing_katydid.png?dfc28a",
+            "img_url": "static/images/insects/Singing_katydid.png",
             "location(s)": [
                 "The Deep Woods"
             ],

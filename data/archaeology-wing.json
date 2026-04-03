@@ -2,7 +2,7 @@
     "Aldarian": [
         {
             "name": "Aldarian Gauntlet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_gauntlet.png?8a771d",
+            "img_url": "static/images/archaeology/Aldarian_gauntlet.png",
             "location(s)": [
                 "The Narrows"
             ],
@@ -11,7 +11,7 @@
         },
         {
             "name": "Aldarian Sword",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_sword.png?3cee2a",
+            "img_url": "static/images/archaeology/Aldarian_sword.png",
             "location(s)": [
                 "The Narrows"
             ],
@@ -20,7 +20,7 @@
         },
         {
             "name": "Aldarian War Banner",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Aldarian_war_banner.png?d1fe55",
+            "img_url": "static/images/archaeology/Aldarian_war_banner.png",
             "location(s)": [
                 "The Narrows"
             ],
@@ -29,7 +29,7 @@
         },
         {
             "name": "Family Crest Pendant",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Family_crest_pendant.png?bddca5",
+            "img_url": "static/images/archaeology/Family_crest_pendant.png",
             "location(s)": [
                 "The Narrows"
             ],
@@ -38,7 +38,7 @@
         },
         {
             "name": "Lost Crown of Aldaria",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lost_crown_of_aldaria.png?54d972",
+            "img_url": "static/images/archaeology/Lost_crown_of_aldaria.png",
             "location(s)": [
                 "The Narrows"
             ],
@@ -49,7 +49,7 @@
     "Caldosian": [
         {
             "name": "Caldosian Breastplate",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_breastplate.png?b44ce6",
+            "img_url": "static/images/archaeology/Caldosian_breastplate.png",
             "location(s)": [
                 "The Eastern Road"
             ],
@@ -58,7 +58,7 @@
         },
         {
             "name": "Caldosian Drinking Horn",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_drinking_horn.png?b8a4b8",
+            "img_url": "static/images/archaeology/Caldosian_drinking_horn.png",
             "location(s)": [
                 "The Eastern Road"
             ],
@@ -67,7 +67,7 @@
         },
         {
             "name": "Caldosian Emperor Bust",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_emperor_bust.png?6b467c",
+            "img_url": "static/images/archaeology/Caldosian_emperor_bust.png",
             "location(s)": [
                 "The Eastern Road"
             ],
@@ -76,7 +76,7 @@
         },
         {
             "name": "Caldosian Sword",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Caldosian_sword.png?a2fed5",
+            "img_url": "static/images/archaeology/Caldosian_sword.png",
             "location(s)": [
                 "The Eastern Road"
             ],
@@ -85,7 +85,7 @@
         },
         {
             "name": "Statuette of Caldarus",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Statuette_of_caldarus.png?e94015",
+            "img_url": "static/images/archaeology/Statuette_of_caldarus.png",
             "location(s)": [
                 "The Eastern Road"
             ],
@@ -96,7 +96,7 @@
     "Alda": [
         {
             "name": "Alda Bronze Sword",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_bronze_sword.png?5bd40d",
+            "img_url": "static/images/archaeology/Alda_bronze_sword.png",
             "location(s)": [
                 "Sweetwater Farm"
             ],
@@ -105,7 +105,7 @@
         },
         {
             "name": "Alda Clay Pot",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_clay_pot.png?f31937",
+            "img_url": "static/images/archaeology/Alda_clay_pot.png",
             "location(s)": [
                 "Sweetwater Farm"
             ],
@@ -114,7 +114,7 @@
         },
         {
             "name": "Alda Feather Pendant",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_feather_pendant.png?430950",
+            "img_url": "static/images/archaeology/Alda_feather_pendant.png",
             "location(s)": [
                 "Sweetwater Farm"
             ],
@@ -123,7 +123,7 @@
         },
         {
             "name": "Alda Gem Bracelet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_gem_bracelet.png?347810",
+            "img_url": "static/images/archaeology/Alda_gem_bracelet.png",
             "location(s)": [
                 "Sweetwater Farm"
             ],
@@ -132,7 +132,7 @@
         },
         {
             "name": "Alda Mural Tablet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alda_mural_tablet.png?c9e735",
+            "img_url": "static/images/archaeology/Alda_mural_tablet.png",
             "location(s)": [
                 "Sweetwater Farm"
             ],
@@ -143,7 +143,7 @@
     "Ancient": [
         {
             "name": "Ancient Crystal Goblet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_crystal_goblet.png?fe9d66",
+            "img_url": "static/images/archaeology/Ancient_crystal_goblet.png",
             "location(s)": [
                 "The Western Ruins"
             ],
@@ -152,7 +152,7 @@
         },
         {
             "name": "Ancient Gold Coin",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_gold_coin.png?2a288d",
+            "img_url": "static/images/archaeology/Ancient_gold_coin.png",
             "location(s)": [
                 "The Western Ruins"
             ],
@@ -161,7 +161,7 @@
         },
         {
             "name": "Ancient Horn Circlet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_horn_circlet.png?1a5f50",
+            "img_url": "static/images/archaeology/Ancient_horn_circlet.png",
             "location(s)": [
                 "The Western Ruins"
             ],
@@ -170,7 +170,7 @@
         },
         {
             "name": "Ancient Royal Scepter",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_royal_scepter.png?d40633",
+            "img_url": "static/images/archaeology/Ancient_royal_scepter.png",
             "location(s)": [
                 "The Western Ruins"
             ],
@@ -179,7 +179,7 @@
         },
         {
             "name": "Ancient Stone Lantern",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ancient_stone_lantern.png?df1705",
+            "img_url": "static/images/archaeology/Ancient_stone_lantern.png",
             "location(s)": [
                 "The Western Ruins"
             ],
@@ -190,7 +190,7 @@
     "Prehistoric": [
         {
             "name": "Amber Trapped Insect",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Amber_trapped_insect.png?b7950c",
+            "img_url": "static/images/archaeology/Amber_trapped_insect.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -199,7 +199,7 @@
         },
         {
             "name": "Fossilized Egg",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fossilized_egg.png?339dce",
+            "img_url": "static/images/archaeology/Fossilized_egg.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -208,7 +208,7 @@
         },
         {
             "name": "Meteorite",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Meteorite.png?b07875",
+            "img_url": "static/images/archaeology/Meteorite.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -217,7 +217,7 @@
         },
         {
             "name": "Tiny Dinosaur Skeleton",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tiny_dinosaur_skeleton.png?3aaba1",
+            "img_url": "static/images/archaeology/Tiny_dinosaur_skeleton.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -226,7 +226,7 @@
         },
         {
             "name": "Trilobite Fossil",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Trilobite_fossil.png?9d4562",
+            "img_url": "static/images/archaeology/Trilobite_fossil.png",
             "location(s)": [
                 "The Beach"
             ],
@@ -237,7 +237,7 @@
     "Oopart": [
         {
             "name": "Black Tablet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Black_tablet.png?832df5",
+            "img_url": "static/images/archaeology/Black_tablet.png",
             "location(s)": [
                 "Dig Spots (requires Well Placed Skill)"
             ],
@@ -246,7 +246,7 @@
         },
         {
             "name": "Completely Wrong Map",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Completely_wrong_map.png?a6fd45",
+            "img_url": "static/images/archaeology/Completely_wrong_map.png",
             "location(s)": [
                 "Dig Spots (requires Well Placed Skill)"
             ],
@@ -255,7 +255,7 @@
         },
         {
             "name": "Muttering Cube",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Muttering_cube.png?b28764",
+            "img_url": "static/images/archaeology/Muttering_cube.png",
             "location(s)": [
                 "Dig Spots (requires Well Placed Skill)"
             ],
@@ -264,7 +264,7 @@
         },
         {
             "name": "Unknown Dragon Statuette",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Unknown_dragon_statuette.png?35ff5c",
+            "img_url": "static/images/archaeology/Unknown_dragon_statuette.png",
             "location(s)": [
                 "Dig Spots (requires Well Placed Skill)"
             ],
@@ -273,7 +273,7 @@
         },
         {
             "name": "Weightless Stone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Weightless_stone.png?93dc95",
+            "img_url": "static/images/archaeology/Weightless_stone.png",
             "location(s)": [
                 "Dig Spots (requires Well Placed Skill)"
             ],
@@ -284,7 +284,7 @@
     "Aquatic": [
         {
             "name": "Coin Lump",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Coin_lump.png?6d73f7",
+            "img_url": "static/images/archaeology/Coin_lump.png",
             "location(s)": [
                 "Found whilst Fishing (requires Aquatic Antiquities Skill)"
             ],
@@ -293,7 +293,7 @@
         },
         {
             "name": "Giant Fish Scale",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_fish_scale.png?dbfae2",
+            "img_url": "static/images/archaeology/Giant_fish_scale.png",
             "location(s)": [
                 "Found whilst Fishing (requires Aquatic Antiquities Skill)"
             ],
@@ -302,7 +302,7 @@
         },
         {
             "name": "Rubber Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rubber_fish.png?9e0977",
+            "img_url": "static/images/archaeology/Rubber_fish.png",
             "location(s)": [
                 "Found whilst Fishing (requires Aquatic Antiquities Skill)"
             ],
@@ -311,7 +311,7 @@
         },
         {
             "name": "Rusted Treasure Chest",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rusted_treasure_chest.png?9b9f17",
+            "img_url": "static/images/archaeology/Rusted_treasure_chest.png",
             "location(s)": [
                 "Found whilst Fishing (requires Aquatic Antiquities Skill)"
             ],
@@ -320,7 +320,7 @@
         },
         {
             "name": "Water Sphere",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Water_sphere.png?f84df6",
+            "img_url": "static/images/archaeology/Water_sphere.png",
             "location(s)": [
                 "Found whilst Fishing (requires Aquatic Antiquities Skill)"
             ],
@@ -331,7 +331,7 @@
     "Sunken": [
         {
             "name": "Criminal Confession",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Criminal_confession.png?7454d3",
+            "img_url": "static/images/archaeology/Criminal_confession.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -340,7 +340,7 @@
         },
         {
             "name": "Mermaid's Comb",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mermaid%27s_comb.png?d7aea9",
+            "img_url": "static/images/archaeology/Mermaid%27s_comb.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -349,7 +349,7 @@
         },
         {
             "name": "Rainbow Seaweed",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_seaweed.png?52af58",
+            "img_url": "static/images/archaeology/Rainbow_seaweed.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -358,7 +358,7 @@
         },
         {
             "name": "Rock with a Hole",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_with_a_hole.png?44f55a",
+            "img_url": "static/images/archaeology/Rock_with_a_hole.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -367,7 +367,7 @@
         },
         {
             "name": "Rusted Shield",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rusted_shield.png?211914",
+            "img_url": "static/images/archaeology/Rusted_shield.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -378,7 +378,7 @@
     "Buried": [
         {
             "name": "Diamond-backed Mirror",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Diamond_backed_mirror.png?e47120",
+            "img_url": "static/images/archaeology/Diamond_backed_mirror.png",
             "location(s)": [
                 "The Mines"
             ],
@@ -387,7 +387,7 @@
         },
         {
             "name": "Flint Arrowhead",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Flint_arrowhead.png?a7be01",
+            "img_url": "static/images/archaeology/Flint_arrowhead.png",
             "location(s)": [
                 "The Mines"
             ],
@@ -396,7 +396,7 @@
         },
         {
             "name": "Obsidian Blade",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Obsidian_blade.png?a04eca",
+            "img_url": "static/images/archaeology/Obsidian_blade.png",
             "location(s)": [
                 "The Mines"
             ],
@@ -405,7 +405,7 @@
         },
         {
             "name": "Shortcut Scroll",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shortcut_scroll.png?bfeb01",
+            "img_url": "static/images/archaeology/Shortcut_scroll.png",
             "location(s)": [
                 "The Mines"
             ],
@@ -414,7 +414,7 @@
         },
         {
             "name": "Stone Horse",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_horse.png?8788c3",
+            "img_url": "static/images/archaeology/Stone_horse.png",
             "location(s)": [
                 "The Mines"
             ],
@@ -425,7 +425,7 @@
     "Upper Mines": [
         {
             "name": "Miner's Helmet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_helmet.png?1f0012",
+            "img_url": "static/images/archaeology/Miner%27s_helmet.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -434,7 +434,7 @@
         },
         {
             "name": "Miner's Pickaxe",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_pickaxe.png?5d49a5",
+            "img_url": "static/images/archaeology/Miner%27s_pickaxe.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -443,7 +443,7 @@
         },
         {
             "name": "Miner's Rucksack",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_rucksack.png?b6dd53",
+            "img_url": "static/images/archaeology/Miner%27s_rucksack.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -452,7 +452,7 @@
         },
         {
             "name": "Miner's Slab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Miner%27s_slab.png?5f4649",
+            "img_url": "static/images/archaeology/Miner%27s_slab.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -461,7 +461,7 @@
         },
         {
             "name": "Tin Lunchbox",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tin_lunchbox.png?ee19c6",
+            "img_url": "static/images/archaeology/Tin_lunchbox.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -472,7 +472,7 @@
     "Tide Cavern": [
         {
             "name": "Crab Statue",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crab_statue.png?106302",
+            "img_url": "static/images/archaeology/Crab_statue.png",
             "location(s)": [
                 "The Tide Caverns (floors 21 - 39)"
             ],
@@ -481,7 +481,7 @@
         },
         {
             "name": "Dense Water",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dense_water.png?47fc44",
+            "img_url": "static/images/archaeology/Dense_water.png",
             "location(s)": [
                 "The Tide Caverns (floors 21 - 39)"
             ],
@@ -490,7 +490,7 @@
         },
         {
             "name": "Starlight Coral",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Starlight_coral.png?2d18eb",
+            "img_url": "static/images/archaeology/Starlight_coral.png",
             "location(s)": [
                 "The Tide Caverns (floors 21 - 39)"
             ],
@@ -499,7 +499,7 @@
         },
         {
             "name": "Stone Shell",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_shell.png?1fb1fa",
+            "img_url": "static/images/archaeology/Stone_shell.png",
             "location(s)": [
                 "The Tide Caverns (floors 21 - 39)"
             ],
@@ -508,7 +508,7 @@
         },
         {
             "name": "Tidestone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tidestone.png?cecd2d",
+            "img_url": "static/images/archaeology/Tidestone.png",
             "location(s)": [
                 "The Tide Caverns (floors 21 - 39)"
             ],
@@ -519,7 +519,7 @@
     "Deep Earth": [
         {
             "name": "Earth-infused Stone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Earth-infused_stone.png?49af36",
+            "img_url": "static/images/archaeology/Earth-infused_stone.png",
             "location(s)": [
                 "The Deep Earth (floors 41 - 59)"
             ],
@@ -528,7 +528,7 @@
         },
         {
             "name": "Faceted Rock Gem",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Faceted_rock_gem.png?81544a",
+            "img_url": "static/images/archaeology/Faceted_rock_gem.png",
             "location(s)": [
                 "The Deep Earth (floors 41 - 59)"
             ],
@@ -537,7 +537,7 @@
         },
         {
             "name": "Really Round Rock",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Really_round_rock.png?6918ab",
+            "img_url": "static/images/archaeology/Really_round_rock.png",
             "location(s)": [
                 "The Deep Earth (floors 41 - 59)"
             ],
@@ -546,7 +546,7 @@
         },
         {
             "name": "Rock Statue",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_statue.png?538c74",
+            "img_url": "static/images/archaeology/Rock_statue.png",
             "location(s)": [
                 "The Deep Earth (floors 41 - 59)"
             ],
@@ -555,7 +555,7 @@
         },
         {
             "name": "Seriously Square Stone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Seriously_square_stone.png?50a3b9",
+            "img_url": "static/images/archaeology/Seriously_square_stone.png",
             "location(s)": [
                 "The Deep Earth (floors 41 - 59)"
             ],
@@ -566,7 +566,7 @@
     "Lava Caves": [
         {
             "name": "Fire Crystal",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fire_crystal.png?b191be",
+            "img_url": "static/images/archaeology/Fire_crystal.png",
             "location(s)": [
                 "The Lava Caves (floors 61 - 79)"
             ],
@@ -575,7 +575,7 @@
         },
         {
             "name": "Rainbow Geode",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_geode.png?fc4987",
+            "img_url": "static/images/archaeology/Rainbow_geode.png",
             "location(s)": [
                 "The Lava Caves (floors 61 - 79)"
             ],
@@ -584,7 +584,7 @@
         },
         {
             "name": "Red Obsidian",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Red_obsidian.png?5dac82",
+            "img_url": "static/images/archaeology/Red_obsidian.png",
             "location(s)": [
                 "The Lava Caves (floors 61 - 79)"
             ],
@@ -593,7 +593,7 @@
         },
         {
             "name": "Tiny Volcano",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tiny_volcano.png?1394f8",
+            "img_url": "static/images/archaeology/Tiny_volcano.png",
             "location(s)": [
                 "The Lava Caves (floors 61 - 79)"
             ],
@@ -602,7 +602,7 @@
         },
         {
             "name": "Warm Rock",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Warm_rock.png?82641c",
+            "img_url": "static/images/archaeology/Warm_rock.png",
             "location(s)": [
                 "The Lava Caves (floors 61 - 79)"
             ],
@@ -613,7 +613,7 @@
     "Dragon": [
         {
             "name": "Dragon Claw",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_claw.png?3181c5",
+            "img_url": "static/images/archaeology/Dragon_claw.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81 - 99)"
             ],
@@ -622,7 +622,7 @@
         },
         {
             "name": "Dragon-Forged Bracelet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_forged_bracelet.png?387305",
+            "img_url": "static/images/archaeology/Dragon_forged_bracelet.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81 - 99)"
             ],
@@ -631,7 +631,7 @@
         },
         {
             "name": "Dragon Pact Tablet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_pact_tablet.png?9b7505",
+            "img_url": "static/images/archaeology/Dragon_pact_tablet.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81 - 99)"
             ],
@@ -640,7 +640,7 @@
         },
         {
             "name": "Dragon Scale",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dragon_scale.png?388209",
+            "img_url": "static/images/archaeology/Dragon_scale.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81 - 99)"
             ],
@@ -649,7 +649,7 @@
         },
         {
             "name": "Hardened Essence",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hardened_essence.png?5d3249",
+            "img_url": "static/images/archaeology/Hardened_essence.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81 - 99)"
             ],
@@ -660,7 +660,7 @@
     "Ritual": [
         {
             "name": "Ritual Beads",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_beads.png?5b6559",
+            "img_url": "static/images/archaeology/Ritual_beads.png",
             "location(s)": [
                 "Ritual Chambers in The Mines (requires Lost to History Skill)"
             ],
@@ -669,7 +669,7 @@
         },
         {
             "name": "Ritual Chalice",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_chalice.png?557d07",
+            "img_url": "static/images/archaeology/Ritual_chalice.png",
             "location(s)": [
                 "Ritual Chambers in The Mines (requires Lost to History Skill)"
             ],
@@ -678,7 +678,7 @@
         },
         {
             "name": "Ritual Incense Burner",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_incense_burner.png?e8bac3",
+            "img_url": "static/images/archaeology/Ritual_incense_burner.png",
             "location(s)": [
                 "Ritual Chambers in The Mines (requires Lost to History Skill)"
             ],
@@ -687,7 +687,7 @@
         },
         {
             "name": "Ritual Scepter",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_scepter.png?adf966",
+            "img_url": "static/images/archaeology/Ritual_scepter.png",
             "location(s)": [
                 "Ritual Chambers in The Mines (requires Lost to History Skill)"
             ],
@@ -696,7 +696,7 @@
         },
         {
             "name": "Ritual Tablet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ritual_tablet.png?420c88",
+            "img_url": "static/images/archaeology/Ritual_tablet.png",
             "location(s)": [
                 "Ritual Chambers in The Mines (requires Lost to History Skill)"
             ],
@@ -707,7 +707,7 @@
     "Mist": [
         {
             "name": "Mist Crystal",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_crystal.png?2f1940",
+            "img_url": "static/images/archaeology/Mist_crystal.png",
             "location(s)": [
                 "Mist Spots (requires Mist Sight Skill)"
             ],
@@ -716,7 +716,7 @@
         },
         {
             "name": "Mist Flute",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_flute.png?1a4866",
+            "img_url": "static/images/archaeology/Mist_flute.png",
             "location(s)": [
                 "Mist Spots (requires Mist Sight Skill)"
             ],
@@ -725,7 +725,7 @@
         },
         {
             "name": "Mist Scroll",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mist_scroll.png?2c84c7",
+            "img_url": "static/images/archaeology/Mist_scroll.png",
             "location(s)": [
                 "Mist Spots (requires Mist Sight Skill)"
             ],
@@ -734,7 +734,7 @@
         },
         {
             "name": "Misty Black Mirror",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Misty_black_mirror.png?4bf04b",
+            "img_url": "static/images/archaeology/Misty_black_mirror.png",
             "location(s)": [
                 "Mist Spots (requires Mist Sight Skill)"
             ],
@@ -743,7 +743,7 @@
         },
         {
             "name": "Misty Feather Quill",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Misty_feather_quill.png?96f8e0",
+            "img_url": "static/images/archaeology/Misty_feather_quill.png",
             "location(s)": [
                 "Mist Spots (requires Mist Sight Skill)"
             ],
@@ -754,7 +754,7 @@
     "Vintage Farm Tools": [
         {
             "name": "Vintage Brush",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_brush.png?adb3e8",
+            "img_url": "static/images/archaeology/Vintage_brush.png",
             "location(s)": [
                 "The Farm (requires Former Farmers Skill)"
             ],
@@ -763,7 +763,7 @@
         },
         {
             "name": "Vintage Cow Bell",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_cow_bell.png?c50c40",
+            "img_url": "static/images/archaeology/Vintage_cow_bell.png",
             "location(s)": [
                 "The Farm (requires Former Farmers Skill)"
             ],
@@ -772,7 +772,7 @@
         },
         {
             "name": "Vintage Hammer",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_hammer.png?7c37f7",
+            "img_url": "static/images/archaeology/Vintage_hammer.png",
             "location(s)": [
                 "The Farm (requires Former Farmers Skill)"
             ],
@@ -781,7 +781,7 @@
         },
         {
             "name": "Vintage Sickle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_sickle.png?f667ff",
+            "img_url": "static/images/archaeology/Vintage_sickle.png",
             "location(s)": [
                 "The Farm (requires Former Farmers Skill)"
             ],
@@ -790,7 +790,7 @@
         },
         {
             "name": "Vintage Watering Can",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Vintage_watering_can.png?4122f6",
+            "img_url": "static/images/archaeology/Vintage_watering_can.png",
             "location(s)": [
                 "The Farm (requires Former Farmers Skill)"
             ],
@@ -801,7 +801,7 @@
     "Metals Of Mistria": [
         {
             "name": "Perfect Copper Ore",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_copper_ore.png?f66252",
+            "img_url": "static/images/archaeology/Perfect_copper_ore.png",
             "location(s)": [
                 "The Upper Mines"
             ],
@@ -810,7 +810,7 @@
         },
         {
             "name": "Perfect Gold Ore",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_gold_ore.png?f40629",
+            "img_url": "static/images/archaeology/Perfect_gold_ore.png",
             "location(s)": [
                 "The Lava Caves"
             ],
@@ -819,7 +819,7 @@
         },
         {
             "name": "Perfect Iron Ore",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_iron_ore.png?c45762",
+            "img_url": "static/images/archaeology/Perfect_iron_ore.png",
             "location(s)": [
                 "The Tide Caverns"
             ],
@@ -828,7 +828,7 @@
         },
         {
             "name": "Perfect Mistril Ore",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_mistril_ore.png?fdb69b",
+            "img_url": "static/images/archaeology/Perfect_mistril_ore.png",
             "location(s)": [
                 "The Ancient Ruins"
             ],
@@ -837,7 +837,7 @@
         },
         {
             "name": "Perfect Silver Ore",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_silver_ore.png?3e274e",
+            "img_url": "static/images/archaeology/Perfect_silver_ore.png",
             "location(s)": [
                 "The Deep Earth"
             ],
@@ -848,7 +848,7 @@
     "Gems Of Mistria": [
         {
             "name": "Perfect Diamond",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_diamond.png?ac54e3",
+            "img_url": "static/images/archaeology/Perfect_diamond.png",
             "location(s)": [
                 "The Lava Caves"
             ],
@@ -857,7 +857,7 @@
         },
         {
             "name": "Perfect Emerald",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_emerald.png?80882c",
+            "img_url": "static/images/archaeology/Perfect_emerald.png",
             "location(s)": [
                 "The Deep Earth"
             ],
@@ -866,7 +866,7 @@
         },
         {
             "name": "Perfect Pink Diamond",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_pink_diamond.png?80aa1d",
+            "img_url": "static/images/archaeology/Perfect_pink_diamond.png",
             "location(s)": [
                 "The Ancient Ruins"
             ],
@@ -875,7 +875,7 @@
         },
         {
             "name": "Perfect Ruby",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_ruby.png?8b714c",
+            "img_url": "static/images/archaeology/Perfect_ruby.png",
             "location(s)": [
                 "The Upper Mines"
             ],
@@ -884,7 +884,7 @@
         },
         {
             "name": "Perfect Sapphire",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perfect_sapphire.png?e3aca7",
+            "img_url": "static/images/archaeology/Perfect_sapphire.png",
             "location(s)": [
                 "The Tide Caverns"
             ],
@@ -895,7 +895,7 @@
     "Deep Woods": [
         {
             "name": "Crystal Apple",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_apple.png?6a4aca",
+            "img_url": "static/images/archaeology/Crystal_apple.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -904,7 +904,7 @@
         },
         {
             "name": "Fossilized Mandrake Root",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fossilized_mandrake_root.png?2db359",
+            "img_url": "static/images/archaeology/Fossilized_mandrake_root.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -913,7 +913,7 @@
         },
         {
             "name": "Gathering Basket",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Gathering_basket.png?9d7dee",
+            "img_url": "static/images/archaeology/Gathering_basket.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -922,7 +922,7 @@
         },
         {
             "name": "Metal Leaf",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Metal_leaf.png?913ba3",
+            "img_url": "static/images/archaeology/Metal_leaf.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -931,7 +931,7 @@
         },
         {
             "name": "Petrified Wood",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Petrified_wood.png?52c376",
+            "img_url": "static/images/archaeology/Petrified_wood.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -942,7 +942,7 @@
     "Fish Trap": [
         {
             "name": "Clay Amphora",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Clay_amphora.png?d2d67e",
+            "img_url": "static/images/archaeology/Clay_amphora.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -951,7 +951,7 @@
         },
         {
             "name": "Message in a Bottle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Message_in_a_bottle.png?ffed3f",
+            "img_url": "static/images/archaeology/Message_in_a_bottle.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -960,7 +960,7 @@
         },
         {
             "name": "Porcelain Figure",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Porcelain_figure.png?54a03a",
+            "img_url": "static/images/archaeology/Porcelain_figure.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -969,7 +969,7 @@
         },
         {
             "name": "Sea Glass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_glass.png?7a76f0",
+            "img_url": "static/images/archaeology/Sea_glass.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -978,7 +978,7 @@
         },
         {
             "name": "Worn Pendant",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Worn_pendant.png?cee1a7",
+            "img_url": "static/images/archaeology/Worn_pendant.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -989,7 +989,7 @@
     "Dig Site": [
         {
             "name": "Clay",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Clay.png?a0ee32",
+            "img_url": "static/images/archaeology/Clay.png",
             "location(s)": [
                 "Balor's Wagon for 50t",
                 "Diving",
@@ -1002,7 +1002,7 @@
         },
         {
             "name": "Peat",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Peat.png?b94780",
+            "img_url": "static/images/archaeology/Peat.png",
             "location(s)": [
                 "Carpenter (requires Steady Supplies Skill) for 50t",
                 "Mining",
@@ -1013,7 +1013,7 @@
         },
         {
             "name": "Shard Mass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shard_mass.png?6468d3",
+            "img_url": "static/images/archaeology/Shard_mass.png",
             "location(s)": [
                 "Dig Spots",
                 "Refining",
@@ -1024,7 +1024,7 @@
         },
         {
             "name": "Shards",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shards.png?86122e",
+            "img_url": "static/images/archaeology/Shards.png",
             "location(s)": [
                 "Dig Spots",
                 "Refining",
@@ -1035,7 +1035,7 @@
         },
         {
             "name": "Sod",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sod.png?c4fd2f",
+            "img_url": "static/images/archaeology/Sod.png",
             "location(s)": [
                 "Refining",
                 "Archaeology",

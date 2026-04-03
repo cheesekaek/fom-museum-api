@@ -2,7 +2,7 @@
     "Spring Crop": [
         {
             "name": "Cabbage",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cabbage.png?e2dbdf",
+            "img_url": "static/images/flora/Cabbage.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -12,7 +12,7 @@
         },
         {
             "name": "Cherry",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cherry.png?d6e773",
+            "img_url": "static/images/flora/Cherry.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Potato",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Potato.png?e58bd2",
+            "img_url": "static/images/flora/Potato.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -36,7 +36,7 @@
         },
         {
             "name": "Strawberry",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Strawberry.png?936558",
+            "img_url": "static/images/flora/Strawberry.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -46,7 +46,7 @@
         },
         {
             "name": "Turnip",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Turnip.png?e82d93",
+            "img_url": "static/images/flora/Turnip.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -58,7 +58,7 @@
     "Spring Flower": [
         {
             "name": "Daffodil",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Daffodil.png?b4d6bb",
+            "img_url": "static/images/flora/Daffodil.png",
             "source(s)": [
                 "Forageables",
                 "Celine/Quests",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Dandelion",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dandelion.png?3ae3df",
+            "img_url": "static/images/flora/Dandelion.png",
             "source(s)": [
                 "Spring",
                 "Forageables",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Lilac",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lilac.png?ec8693",
+            "img_url": "static/images/flora/Lilac.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Snowdrop Anemone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Snowdrop_anemone.png?59b990",
+            "img_url": "static/images/flora/Snowdrop_anemone.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Tulip",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tulip.png?134974",
+            "img_url": "static/images/flora/Tulip.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -137,7 +137,7 @@
     "Spring Forage": [
         {
             "name": "Fennel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fennel.png?15d44c",
+            "img_url": "static/images/flora/Fennel.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -150,7 +150,7 @@
         },
         {
             "name": "Fiddlehead",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fiddlehead.png?593e0f",
+            "img_url": "static/images/flora/Fiddlehead.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -163,7 +163,7 @@
         },
         {
             "name": "Morel Mushroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Morel_mushroom.png?9b20c9",
+            "img_url": "static/images/flora/Morel_mushroom.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -175,7 +175,7 @@
         },
         {
             "name": "Nettle",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Nettle.png?36b1cf",
+            "img_url": "static/images/flora/Nettle.png",
             "source(s)": [
                 "Spring",
                 "Forageables",
@@ -189,7 +189,7 @@
         },
         {
             "name": "Wild Leek",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Wild_leek.png?25b8df",
+            "img_url": "static/images/flora/Wild_leek.png",
             "source(s)": [
                 "Spring",
                 "Forageables",
@@ -207,7 +207,7 @@
     "Summer Crop": [
         {
             "name": "Chili Pepper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Chili_pepper.png?ebfc25",
+            "img_url": "static/images/flora/Chili_pepper.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -217,7 +217,7 @@
         },
         {
             "name": "Corn",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Corn.png?a10db5",
+            "img_url": "static/images/flora/Corn.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -227,7 +227,7 @@
         },
         {
             "name": "Cucumber",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cucumber.png?ac8b1c",
+            "img_url": "static/images/flora/Cucumber.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -237,7 +237,7 @@
         },
         {
             "name": "Tomato",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tomato.png?a3f9b3",
+            "img_url": "static/images/flora/Tomato.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -247,7 +247,7 @@
         },
         {
             "name": "Watermelon",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Watermelon.png?467527",
+            "img_url": "static/images/flora/Watermelon.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -259,7 +259,7 @@
     "Summer Flower": [
         {
             "name": "Catmint",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Catmint.png?53d4c7",
+            "img_url": "static/images/flora/Catmint.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Cosmos",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cosmos.png?7ba0dd",
+            "img_url": "static/images/flora/Cosmos.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -289,7 +289,7 @@
         },
         {
             "name": "Daisy",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Daisy.png?d28c8a",
+            "img_url": "static/images/flora/Daisy.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -307,7 +307,7 @@
         },
         {
             "name": "Iris",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Iris.png?561ee9",
+            "img_url": "static/images/flora/Iris.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -324,7 +324,7 @@
         },
         {
             "name": "Marigold",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Marigold.png?f49872",
+            "img_url": "static/images/flora/Marigold.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -342,7 +342,7 @@
     "Summer Forage": [
         {
             "name": "Basil",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Basil.png?674fff",
+            "img_url": "static/images/flora/Basil.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -357,7 +357,7 @@
         },
         {
             "name": "Dill",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dill.png?e3933e",
+            "img_url": "static/images/flora/Dill.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -374,7 +374,7 @@
         },
         {
             "name": "Oregano",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Oregano.png?d0936d",
+            "img_url": "static/images/flora/Oregano.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -389,7 +389,7 @@
         },
         {
             "name": "Sage",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sage.png?5ab90b",
+            "img_url": "static/images/flora/Sage.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -405,7 +405,7 @@
         },
         {
             "name": "Thyme",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Thyme.png?72249f",
+            "img_url": "static/images/flora/Thyme.png",
             "source(s)": [
                 "Summer",
                 "Forageables",
@@ -422,7 +422,7 @@
     "Fall Crop": [
         {
             "name": "Apple",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Apple.png?bfa8b3",
+            "img_url": "static/images/flora/Apple.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -437,7 +437,7 @@
         },
         {
             "name": "Broccoli",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Broccoli.png?30b67c",
+            "img_url": "static/images/flora/Broccoli.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -447,7 +447,7 @@
         },
         {
             "name": "Cranberry",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cranberry.png?5b732c",
+            "img_url": "static/images/flora/Cranberry.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -457,7 +457,7 @@
         },
         {
             "name": "Pumpkin",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pumpkin.png?20d1e4",
+            "img_url": "static/images/flora/Pumpkin.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -467,7 +467,7 @@
         },
         {
             "name": "Sweet Potato",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sweet_potato.png?78b4e5",
+            "img_url": "static/images/flora/Sweet_potato.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -479,7 +479,7 @@
     "Fall Flower": [
         {
             "name": "Celosia",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Celosia.png?5d3ec5",
+            "img_url": "static/images/flora/Celosia.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -489,7 +489,7 @@
         },
         {
             "name": "Chrysanthemum",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Chrysanthemum.png?4b937b",
+            "img_url": "static/images/flora/Chrysanthemum.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -500,7 +500,7 @@
         },
         {
             "name": "Fog Orchid",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Fog_orchid.png?bf2bd7",
+            "img_url": "static/images/flora/Fog_orchid.png",
             "source(s)": [
                 "Fall",
                 "Forageables",
@@ -515,7 +515,7 @@
         },
         {
             "name": "Heather",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Heather.png?d6b9bd",
+            "img_url": "static/images/flora/Heather.png",
             "source(s)": [
                 "Dates",
                 "Forageables",
@@ -533,7 +533,7 @@
         },
         {
             "name": "Viola",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Viola.png?961d0a",
+            "img_url": "static/images/flora/Viola.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -548,7 +548,7 @@
     "Fall Forage": [
         {
             "name": "Chestnut",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Chestnut.png?33615d",
+            "img_url": "static/images/flora/Chestnut.png",
             "source(s)": [
                 "Fall",
                 "Forageables",
@@ -564,7 +564,7 @@
         },
         {
             "name": "Garlic",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Garlic.png?6941c1",
+            "img_url": "static/images/flora/Garlic.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -579,7 +579,7 @@
         },
         {
             "name": "Horseradish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Horseradish.png?72ccb7",
+            "img_url": "static/images/flora/Horseradish.png",
             "source(s)": [
                 "Fall",
                 "Forageables",
@@ -595,7 +595,7 @@
         },
         {
             "name": "Moon Fruit",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Moon_fruit.png?9abfb3",
+            "img_url": "static/images/flora/Moon_fruit.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -610,7 +610,7 @@
         },
         {
             "name": "Rosemary",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rosemary.png?880ad8",
+            "img_url": "static/images/flora/Rosemary.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -627,7 +627,7 @@
     "Winter Crop": [
         {
             "name": "Beet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Beet.png?906797",
+            "img_url": "static/images/flora/Beet.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -637,7 +637,7 @@
         },
         {
             "name": "Cauliflower",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cauliflower.png?84a1b0",
+            "img_url": "static/images/flora/Cauliflower.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -647,7 +647,7 @@
         },
         {
             "name": "Daikon Radish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Daikon_radish.png?8c7a76",
+            "img_url": "static/images/flora/Daikon_radish.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -657,7 +657,7 @@
         },
         {
             "name": "Pomegranate",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pomegranate.png?ba69ad",
+            "img_url": "static/images/flora/Pomegranate.png",
             "source(s)": [
                 "The Narrows",
                 "Forageables",
@@ -671,7 +671,7 @@
         },
         {
             "name": "Snow Peas",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Snow_peas.png?19b20f",
+            "img_url": "static/images/flora/Snow_peas.png",
             "source(s)": [
                 "Farming",
                 "Balor's Wagon"
@@ -683,7 +683,7 @@
     "Winter Flower": [
         {
             "name": "Crocus",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crocus.png?9fba3c",
+            "img_url": "static/images/flora/Crocus.png",
             "source(s)": [
                 "Balor's Wagon",
                 "Forageables",
@@ -699,7 +699,7 @@
         },
         {
             "name": "Frost Lily",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Frost_lily.png?366ced",
+            "img_url": "static/images/flora/Frost_lily.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -716,7 +716,7 @@
         },
         {
             "name": "Jasmine",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Jasmine.png?db70cd",
+            "img_url": "static/images/flora/Jasmine.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -732,7 +732,7 @@
         },
         {
             "name": "Poinsettia",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Poinsettia.png?b8136d",
+            "img_url": "static/images/flora/Poinsettia.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -747,7 +747,7 @@
         },
         {
             "name": "Snapdragon",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Snapdragon.png?38edc9",
+            "img_url": "static/images/flora/Snapdragon.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -765,7 +765,7 @@
     "Winter Forage": [
         {
             "name": "Burdock Root",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Burdock_root.png?9584e1",
+            "img_url": "static/images/flora/Burdock_root.png",
             "source(s)": [
                 "Forageables",
                 "Farming",
@@ -783,7 +783,7 @@
         },
         {
             "name": "Holly",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Holly.png?3b62e8",
+            "img_url": "static/images/flora/Holly.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -796,7 +796,7 @@
         },
         {
             "name": "Oyster Mushroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Oyster_mushroom.png?25c214",
+            "img_url": "static/images/flora/Oyster_mushroom.png",
             "source(s)": [
                 "Balor's Wagon",
                 "Forageables",
@@ -812,7 +812,7 @@
         },
         {
             "name": "Pineshroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pineshroom.png?91d8b6",
+            "img_url": "static/images/flora/Pineshroom.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -824,7 +824,7 @@
         },
         {
             "name": "Rose Hip",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rose_hip.png?888441",
+            "img_url": "static/images/flora/Rose_hip.png",
             "source(s)": [
                 "Forageables",
                 "Balor's Wagon"
@@ -838,7 +838,7 @@
     "Deep Woods": [
         {
             "name": "Thorn Vine",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Thorn_vine.png?ae370a",
+            "img_url": "static/images/flora/Thorn_vine.png",
             "source(s)": [
                 "The Deep Woods",
                 "Forageables",
@@ -851,7 +851,7 @@
         },
         {
             "name": "Spirit Mushroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Spirit_mushroom.png?d86b94",
+            "img_url": "static/images/flora/Spirit_mushroom.png",
             "source(s)": [
                 "The Deep Woods",
                 "Forageables",
@@ -864,7 +864,7 @@
         },
         {
             "name": "Temple Flower",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Temple_flower.png?49b73e",
+            "img_url": "static/images/flora/Temple_flower.png",
             "source(s)": [
                 "The Deep Woods",
                 "Forageables",
@@ -877,7 +877,7 @@
         },
         {
             "name": "Walnut",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Walnut.png?5d08dc",
+            "img_url": "static/images/flora/Walnut.png",
             "source(s)": [
                 "The Deep Woods",
                 "Forageables",
@@ -890,7 +890,7 @@
         },
         {
             "name": "Bell Berry",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bell_berry.png?2519d6",
+            "img_url": "static/images/flora/Bell_berry.png",
             "source(s)": [
                 "The Deep Woods",
                 "Forageables",
@@ -905,7 +905,7 @@
     "Upper Mines": [
         {
             "name": "Narrows Moss",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Narrows_moss.png?cb4540",
+            "img_url": "static/images/flora/Narrows_moss.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -916,7 +916,7 @@
         },
         {
             "name": "Red Toadstool",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Red_toadstool.png?38d488",
+            "img_url": "static/images/flora/Red_toadstool.png",
             "source(s)": [
                 "Mushroom (Monster)"
             ],
@@ -927,7 +927,7 @@
         },
         {
             "name": "Shadow Flower",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shadow_flower.png?bc6ead",
+            "img_url": "static/images/flora/Shadow_flower.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -938,7 +938,7 @@
         },
         {
             "name": "Sweetroot",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sweetroot.png?612c45",
+            "img_url": "static/images/flora/Sweetroot.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -949,7 +949,7 @@
         },
         {
             "name": "Upper Mines Mushroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Upper_mines_mushroom.png?93e6f3",
+            "img_url": "static/images/flora/Upper_mines_mushroom.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -962,7 +962,7 @@
     "Tide Caverns": [
         {
             "name": "Jade Dulse",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_kelp.png?56a9f6",
+            "img_url": "static/images/flora/Cave_kelp.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -973,7 +973,7 @@
         },
         {
             "name": "Mines Mussels",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mines_mussels.png?f330ef",
+            "img_url": "static/images/flora/Mines_mussels.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -984,7 +984,7 @@
         },
         {
             "name": "Sea Grapes",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_grapes.png?48f5e9",
+            "img_url": "static/images/flora/Sea_grapes.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -995,7 +995,7 @@
         },
         {
             "name": "Tide Lettuce",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tide_lettuce.png?b169a9",
+            "img_url": "static/images/flora/Tide_lettuce.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1006,7 +1006,7 @@
         },
         {
             "name": "Underseaweed",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Underseaweed.png?e53352",
+            "img_url": "static/images/flora/Underseaweed.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1019,7 +1019,7 @@
     "Deep Earth": [
         {
             "name": "Crystal Berries",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_berries.png?3cd5f0",
+            "img_url": "static/images/flora/Crystal_berries.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1030,7 +1030,7 @@
         },
         {
             "name": "Crystal Rose",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crystal_rose.png?80e28a",
+            "img_url": "static/images/flora/Crystal_rose.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1041,7 +1041,7 @@
         },
         {
             "name": "Earthshroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Earthshroom.png?6b48ee",
+            "img_url": "static/images/flora/Earthshroom.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1052,7 +1052,7 @@
         },
         {
             "name": "Rockroot",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rockroot.png?a4f279",
+            "img_url": "static/images/flora/Rockroot.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1063,7 +1063,7 @@
         },
         {
             "name": "Shale Grass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shale_grass.png?ccb7d1",
+            "img_url": "static/images/flora/Shale_grass.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1076,7 +1076,7 @@
     "Lava Caves": [
         {
             "name": "Ash Mushroom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ash_mushroom.png?31589f",
+            "img_url": "static/images/flora/Ash_mushroom.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1087,7 +1087,7 @@
         },
         {
             "name": "Breath of Flame",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Breath_of_flame.png?5c2b18",
+            "img_url": "static/images/flora/Breath_of_flame.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1098,7 +1098,7 @@
         },
         {
             "name": "Flame Pepper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Flame_pepper.png?40787c",
+            "img_url": "static/images/flora/Flame_pepper.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1109,7 +1109,7 @@
         },
         {
             "name": "Hot Potato",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hot_potato.png?cd9343",
+            "img_url": "static/images/flora/Hot_potato.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1120,7 +1120,7 @@
         },
         {
             "name": "Lava Chestnuts",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lava_chestnuts.png?cb398c",
+            "img_url": "static/images/flora/Lava_chestnuts.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1133,7 +1133,7 @@
     "Ruins": [
         {
             "name": "Chirping Fern",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Chirping_fern.png?81a5df",
+            "img_url": "static/images/flora/Chirping_fern.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1144,7 +1144,7 @@
         },
         {
             "name": "Essence Blossom",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Essence_blossom.png?160ad8",
+            "img_url": "static/images/flora/Essence_blossom.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1155,7 +1155,7 @@
         },
         {
             "name": "Ethereal Grass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ethereal_grass.png?bacd10",
+            "img_url": "static/images/flora/Ethereal_grass.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1166,7 +1166,7 @@
         },
         {
             "name": "Spell Fruit",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Spell_fruit.png?7af619",
+            "img_url": "static/images/flora/Spell_fruit.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1177,7 +1177,7 @@
         },
         {
             "name": "Written Root",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Written_root.png?c49140",
+            "img_url": "static/images/flora/Written_root.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1190,7 +1190,7 @@
     "Void Forage": [
         {
             "name": "Void Herb",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Void_herb.png?750fbc",
+            "img_url": "static/images/flora/Void_herb.png",
             "source(s)": [
                 "Forageables"
             ],
@@ -1201,7 +1201,7 @@
         },
         {
             "name": "Void Pearl",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Void_pearl.png?c7e0ca",
+            "img_url": "static/images/flora/Void_pearl.png",
             "source(s)": [
                 "Fishing"
             ],
@@ -1212,7 +1212,7 @@
         },
         {
             "name": "Void Powder",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Void_powder.png?171eeb",
+            "img_url": "static/images/flora/Void_powder.png",
             "source(s)": [
                 "Monsters"
             ],
@@ -1223,7 +1223,7 @@
         },
         {
             "name": "Void Stone",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Void_stone.png?cec503",
+            "img_url": "static/images/flora/Void_stone.png",
             "source(s)": [
                 "Void Stone"
             ],
@@ -1234,7 +1234,7 @@
         },
         {
             "name": "Voidite",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Voidite.png?341d6a",
+            "img_url": "static/images/flora/Voidite.png",
             "source(s)": [
                 "Voidite"
             ],

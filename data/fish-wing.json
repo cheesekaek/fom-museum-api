@@ -2,7 +2,7 @@
     "Multi-Season": [
         {
             "name": "Koi",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Koi.png?307e89",
+            "img_url": "static/images/fish/Koi.png",
             "location(s)": [
                 "Pond"
             ],
@@ -15,7 +15,7 @@
         },
         {
             "name": "Pike",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pike.png?6bec5e",
+            "img_url": "static/images/fish/Pike.png",
             "location(s)": [
                 "River"
             ],
@@ -28,7 +28,7 @@
         },
         {
             "name": "Pollock",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pollock.png?7fa3e4",
+            "img_url": "static/images/fish/Pollock.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -41,7 +41,7 @@
         },
         {
             "name": "Smallmouth Bass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Smallmouth_bass.png?2535af",
+            "img_url": "static/images/fish/Smallmouth_bass.png",
             "location(s)": [
                 "River"
             ],
@@ -54,7 +54,7 @@
         },
         {
             "name": "Trout",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Trout.png?eab1e8",
+            "img_url": "static/images/fish/Trout.png",
             "location(s)": [
                 "River"
             ],
@@ -69,7 +69,7 @@
     "Spring River": [
         {
             "name": "Bluegill",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bluegill.png?6d9af2",
+            "img_url": "static/images/fish/Bluegill.png",
             "location(s)": [
                 "River"
             ],
@@ -82,7 +82,7 @@
         },
         {
             "name": "Carp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Carp.png?b92e45",
+            "img_url": "static/images/fish/Carp.png",
             "location(s)": [
                 "River"
             ],
@@ -95,7 +95,7 @@
         },
         {
             "name": "Chub",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Chub.png?4e3655",
+            "img_url": "static/images/fish/Chub.png",
             "location(s)": [
                 "River"
             ],
@@ -108,7 +108,7 @@
         },
         {
             "name": "Paddlefish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Paddlefish.png?c9a465",
+            "img_url": "static/images/fish/Paddlefish.png",
             "location(s)": [
                 "River"
             ],
@@ -121,7 +121,7 @@
         },
         {
             "name": "Walleye",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Walleye.png?69f1ab",
+            "img_url": "static/images/fish/Walleye.png",
             "location(s)": [
                 "River"
             ],
@@ -137,7 +137,7 @@
     "Spring Pond": [
         {
             "name": "Angel Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Angel_fish.png?886558",
+            "img_url": "static/images/fish/Angel_fish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -150,7 +150,7 @@
         },
         {
             "name": "Barb",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Barb.png?ffb943",
+            "img_url": "static/images/fish/Barb.png",
             "location(s)": [
                 "Pond"
             ],
@@ -163,7 +163,7 @@
         },
         {
             "name": "Brown Trout",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Brown_trout.png?5f10ef",
+            "img_url": "static/images/fish/Brown_trout.png",
             "location(s)": [
                 "Pond"
             ],
@@ -176,7 +176,7 @@
         },
         {
             "name": "Crucian Carp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crucian_carp.png?17a1b3",
+            "img_url": "static/images/fish/Crucian_carp.png",
             "location(s)": [
                 "Pond"
             ],
@@ -189,7 +189,7 @@
         },
         {
             "name": "Goldfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Goldfish.png?b8d069",
+            "img_url": "static/images/fish/Goldfish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -204,7 +204,7 @@
     "Spring Ocean": [
         {
             "name": "Anchovy",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Anchovy.png?e85bbe",
+            "img_url": "static/images/fish/Anchovy.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -217,7 +217,7 @@
         },
         {
             "name": "Lobster",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lobster.png?10760c",
+            "img_url": "static/images/fish/Lobster.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -230,7 +230,7 @@
         },
         {
             "name": "Mackerel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mackerel.png?545d28",
+            "img_url": "static/images/fish/Mackerel.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -245,7 +245,7 @@
         },
         {
             "name": "Ocean Sunfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Ocean_sunfish.png?dffd55",
+            "img_url": "static/images/fish/Ocean_sunfish.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -258,7 +258,7 @@
         },
         {
             "name": "Shrimp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shrimp.png?7c398b",
+            "img_url": "static/images/fish/Shrimp.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -273,7 +273,7 @@
     "Summer River": [
         {
             "name": "Bream",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bream.png?c86586",
+            "img_url": "static/images/fish/Bream.png",
             "location(s)": [
                 "River"
             ],
@@ -286,7 +286,7 @@
         },
         {
             "name": "Loach",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Loach.png?a220bc",
+            "img_url": "static/images/fish/Loach.png",
             "location(s)": [
                 "River"
             ],
@@ -299,7 +299,7 @@
         },
         {
             "name": "Minnow",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Minnow.png?d0bc7d",
+            "img_url": "static/images/fish/Minnow.png",
             "location(s)": [
                 "River"
             ],
@@ -312,7 +312,7 @@
         },
         {
             "name": "Sweetfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sweetfish.png?8e1d2b",
+            "img_url": "static/images/fish/Sweetfish.png",
             "location(s)": [
                 "River"
             ],
@@ -325,7 +325,7 @@
         },
         {
             "name": "Tarpon",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tarpon.png?beb0cb",
+            "img_url": "static/images/fish/Tarpon.png",
             "location(s)": [
                 "River"
             ],
@@ -340,7 +340,7 @@
     "Summer Pond": [
         {
             "name": "Brown Bullhead",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Brown_bullhead.png?4d49a6",
+            "img_url": "static/images/fish/Brown_bullhead.png",
             "location(s)": [
                 "Pond"
             ],
@@ -353,7 +353,7 @@
         },
         {
             "name": "Giant Koi",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_koi.png?9998df",
+            "img_url": "static/images/fish/Giant_koi.png",
             "location(s)": [
                 "Pond"
             ],
@@ -366,7 +366,7 @@
         },
         {
             "name": "Golden Shiner",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Golden_shiner.png?44a060",
+            "img_url": "static/images/fish/Golden_shiner.png",
             "location(s)": [
                 "Pond"
             ],
@@ -379,7 +379,7 @@
         },
         {
             "name": "Lake Chub",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lake_chub.png?b716ae",
+            "img_url": "static/images/fish/Lake_chub.png",
             "location(s)": [
                 "Pond"
             ],
@@ -392,7 +392,7 @@
         },
         {
             "name": "Sauger",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sauger.png?7e15ed",
+            "img_url": "static/images/fish/Sauger.png",
             "location(s)": [
                 "Pond"
             ],
@@ -407,7 +407,7 @@
     "Summer Ocean": [
         {
             "name": "Char",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Char.png?bbb00e",
+            "img_url": "static/images/fish/Char.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -420,7 +420,7 @@
         },
         {
             "name": "Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Crab.png?41626c",
+            "img_url": "static/images/fish/Crab.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -433,7 +433,7 @@
         },
         {
             "name": "Dart",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dart.png?85ff96",
+            "img_url": "static/images/fish/Dart.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -446,7 +446,7 @@
         },
         {
             "name": "Grouper",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Grouper.png?6f7ec3",
+            "img_url": "static/images/fish/Grouper.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -459,7 +459,7 @@
         },
         {
             "name": "Stingray",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Stingray.png?c8c162",
+            "img_url": "static/images/fish/Stingray.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -474,7 +474,7 @@
     "Fall River": [
         {
             "name": "Grayling",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Grayling.png?1aea51",
+            "img_url": "static/images/fish/Grayling.png",
             "location(s)": [
                 "River"
             ],
@@ -490,7 +490,7 @@
         },
         {
             "name": "Lamprey",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lamprey.png?669f01",
+            "img_url": "static/images/fish/Lamprey.png",
             "location(s)": [
                 "River"
             ],
@@ -503,7 +503,7 @@
         },
         {
             "name": "Perch",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Perch.png?5c3d64",
+            "img_url": "static/images/fish/Perch.png",
             "location(s)": [
                 "River"
             ],
@@ -518,7 +518,7 @@
         },
         {
             "name": "Razorback",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Razorback.png?5bf178",
+            "img_url": "static/images/fish/Razorback.png",
             "location(s)": [
                 "River"
             ],
@@ -534,7 +534,7 @@
         },
         {
             "name": "Shad",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shad.png?6b6bec",
+            "img_url": "static/images/fish/Shad.png",
             "location(s)": [
                 "River"
             ],
@@ -549,7 +549,7 @@
     "Fall Pond": [
         {
             "name": "Bluefish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bluefish.png?afe965",
+            "img_url": "static/images/fish/Bluefish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -565,7 +565,7 @@
         },
         {
             "name": "Killifish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Killifish.png?5bba81",
+            "img_url": "static/images/fish/Killifish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -578,7 +578,7 @@
         },
         {
             "name": "Rainbow Trout",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rainbow_trout.png?40cdc7",
+            "img_url": "static/images/fish/Rainbow_trout.png",
             "location(s)": [
                 "Pond"
             ],
@@ -591,7 +591,7 @@
         },
         {
             "name": "Striped Bass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Striped_bass.png?5b9414",
+            "img_url": "static/images/fish/Striped_bass.png",
             "location(s)": [
                 "Pond"
             ],
@@ -604,7 +604,7 @@
         },
         {
             "name": "White Perch",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/White_perch.png?ebbaea",
+            "img_url": "static/images/fish/White_perch.png",
             "location(s)": [
                 "Pond"
             ],
@@ -619,7 +619,7 @@
     "Fall Ocean": [
         {
             "name": "Butterfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Butterfish.png?9fa23c",
+            "img_url": "static/images/fish/Butterfish.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -632,7 +632,7 @@
         },
         {
             "name": "Halibut",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Halibut.png?dc05e0",
+            "img_url": "static/images/fish/Halibut.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -648,7 +648,7 @@
         },
         {
             "name": "Mullet",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mullet.png?e8c2ef",
+            "img_url": "static/images/fish/Mullet.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -661,7 +661,7 @@
         },
         {
             "name": "Saury",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Saury.png?31b0af",
+            "img_url": "static/images/fish/Saury.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -674,7 +674,7 @@
         },
         {
             "name": "Shark",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shark.png?ab33e3",
+            "img_url": "static/images/fish/Shark.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -689,7 +689,7 @@
     "Winter River": [
         {
             "name": "Bowfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bowfish.png?84632c",
+            "img_url": "static/images/fish/Bowfish.png",
             "location(s)": [
                 "River"
             ],
@@ -702,7 +702,7 @@
         },
         {
             "name": "Dace",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Dace.png?f79178",
+            "img_url": "static/images/fish/Dace.png",
             "location(s)": [
                 "River"
             ],
@@ -716,7 +716,7 @@
         },
         {
             "name": "Freshwater Eel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Freshwater_eel.png?f95ede",
+            "img_url": "static/images/fish/Freshwater_eel.png",
             "location(s)": [
                 "River"
             ],
@@ -729,7 +729,7 @@
         },
         {
             "name": "Herring",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Herring.png?b6912c",
+            "img_url": "static/images/fish/Herring.png",
             "location(s)": [
                 "River"
             ],
@@ -742,7 +742,7 @@
         },
         {
             "name": "Shadow Bass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shadow_bass.png?a3e96c",
+            "img_url": "static/images/fish/Shadow_bass.png",
             "location(s)": [
                 "River"
             ],
@@ -757,7 +757,7 @@
     "Winter Pond": [
         {
             "name": "Alligator Gar",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Alligator_gar.png?a242f3",
+            "img_url": "static/images/fish/Alligator_gar.png",
             "location(s)": [
                 "Pond"
             ],
@@ -770,7 +770,7 @@
         },
         {
             "name": "Burbot",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Burbot.png?705113",
+            "img_url": "static/images/fish/Burbot.png",
             "location(s)": [
                 "Pond"
             ],
@@ -784,7 +784,7 @@
         },
         {
             "name": "Flathead Catfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Flathead_catfish.png?584edd",
+            "img_url": "static/images/fish/Flathead_catfish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -797,7 +797,7 @@
         },
         {
             "name": "Giant Tilapia",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_tilapia.png?763e81",
+            "img_url": "static/images/fish/Giant_tilapia.png",
             "location(s)": [
                 "Pond"
             ],
@@ -810,7 +810,7 @@
         },
         {
             "name": "Tilapia",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Tilapia.png?ce3a62",
+            "img_url": "static/images/fish/Tilapia.png",
             "location(s)": [
                 "Pond"
             ],
@@ -825,7 +825,7 @@
     "Winter Ocean": [
         {
             "name": "Horse Mackerel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Horse_mackerel.png?8a02e1",
+            "img_url": "static/images/fish/Horse_mackerel.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -838,7 +838,7 @@
         },
         {
             "name": "King Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/King_crab.png?9f77db",
+            "img_url": "static/images/fish/King_crab.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -852,7 +852,7 @@
         },
         {
             "name": "Oarfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Oarfish.png?a04b9d",
+            "img_url": "static/images/fish/Oarfish.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -865,7 +865,7 @@
         },
         {
             "name": "Sand Lance",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sand_lance.png?1ad58d",
+            "img_url": "static/images/fish/Sand_lance.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -878,7 +878,7 @@
         },
         {
             "name": "Sea Bass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_bass.png?105de5",
+            "img_url": "static/images/fish/Sea_bass.png",
             "location(s)": [
                 "Ocean"
             ],
@@ -893,7 +893,7 @@
     "Fish Bait": [
         {
             "name": "Massive Minnow",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Massive_minnow.png?3234c3",
+            "img_url": "static/images/fish/Massive_minnow.png",
             "location(s)": [
                 "Any Fishing Location (requires use of Fish Bait)"
             ],
@@ -906,7 +906,7 @@
         },
         {
             "name": "Copper Rockfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Copper_rockfish.png?92a58c",
+            "img_url": "static/images/fish/Copper_rockfish.png",
             "location(s)": [
                 "Any Fishing Location (requires use of Fish Bait)"
             ],
@@ -919,7 +919,7 @@
         },
         {
             "name": "Iron Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Iron_fish.png?af436a",
+            "img_url": "static/images/fish/Iron_fish.png",
             "location(s)": [
                 "Any Fishing Location (requires use of Fish Bait)"
             ],
@@ -932,7 +932,7 @@
         },
         {
             "name": "Silver Squid",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Silver_squid.png?ad84c6",
+            "img_url": "static/images/fish/Silver_squid.png",
             "location(s)": [
                 "Any Fishing Location (requires use of Fish Bait)"
             ],
@@ -945,7 +945,7 @@
         },
         {
             "name": "Golden Eel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Golden_eel.png?18867c",
+            "img_url": "static/images/fish/Golden_eel.png",
             "location(s)": [
                 "Any Fishing Location (requires use of Fish Bait)"
             ],
@@ -960,7 +960,7 @@
     "Fish Trap": [
         {
             "name": "Blue Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Blue_crab.png?64eca2",
+            "img_url": "static/images/fish/Blue_crab.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -973,7 +973,7 @@
         },
         {
             "name": "Sea Urchin",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sea_urchin.png?42a886",
+            "img_url": "static/images/fish/Sea_urchin.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -986,7 +986,7 @@
         },
         {
             "name": "Bait Thief",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Bait_thief.png?e37725",
+            "img_url": "static/images/fish/Bait_thief.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -999,7 +999,7 @@
         },
         {
             "name": "Hake",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Hake.png?5a6967",
+            "img_url": "static/images/fish/Hake.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -1012,7 +1012,7 @@
         },
         {
             "name": "Amberjack",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Amberjack.png?37571e",
+            "img_url": "static/images/fish/Amberjack.png",
             "location(s)": [
                 "Fish Trap"
             ],
@@ -1027,7 +1027,7 @@
     "Deep Woods": [
         {
             "name": "Sunny",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sunny.png?7487f8",
+            "img_url": "static/images/fish/Sunny.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1043,7 +1043,7 @@
         },
         {
             "name": "Forest Perch",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Forest_perch.png?33565a",
+            "img_url": "static/images/fish/Forest_perch.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1059,7 +1059,7 @@
         },
         {
             "name": "Silver Redhorse",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Silver_redhorse.png?1e972b",
+            "img_url": "static/images/fish/Silver_redhorse.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1072,7 +1072,7 @@
         },
         {
             "name": "Lake Trout",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lake_trout.png?e7547a",
+            "img_url": "static/images/fish/Lake_trout.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1085,7 +1085,7 @@
         },
         {
             "name": "Muskie",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Muskie.png?feb8c0",
+            "img_url": "static/images/fish/Muskie.png",
             "location(s)": [
                 "The Deep Woods"
             ],
@@ -1100,7 +1100,7 @@
     "Upper Mines": [
         {
             "name": "Cave Eel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_eel.png?1e1f2e",
+            "img_url": "static/images/fish/Cave_eel.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -1113,7 +1113,7 @@
         },
         {
             "name": "Cave Shark",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_shark.png?675b8b",
+            "img_url": "static/images/fish/Cave_shark.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -1126,7 +1126,7 @@
         },
         {
             "name": "Cave Shrimp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cave_shrimp.png?6bec9b",
+            "img_url": "static/images/fish/Cave_shrimp.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -1139,7 +1139,7 @@
         },
         {
             "name": "Rock Guppy",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rock_guppy.png?9bf633",
+            "img_url": "static/images/fish/Rock_guppy.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -1152,7 +1152,7 @@
         },
         {
             "name": "Stone Loach",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Stone_loach.png?ae7ef9",
+            "img_url": "static/images/fish/Stone_loach.png",
             "location(s)": [
                 "The Upper Mines (floors 1-19)"
             ],
@@ -1167,7 +1167,7 @@
     "Tide Caverns": [
         {
             "name": "Archerfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Archerfish.png?fb93c8",
+            "img_url": "static/images/fish/Archerfish.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -1180,7 +1180,7 @@
         },
         {
             "name": "Mini-Whale Shark",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Mini_whale_shark.png?ab9822",
+            "img_url": "static/images/fish/Mini_whale_shark.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -1193,7 +1193,7 @@
         },
         {
             "name": "Sapphire Betta",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sapphire_betta.png?e19b66",
+            "img_url": "static/images/fish/Sapphire_betta.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -1206,7 +1206,7 @@
         },
         {
             "name": "Transparent Jellyfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Transparent_jellyfish.png?38e216",
+            "img_url": "static/images/fish/Transparent_jellyfish.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -1219,7 +1219,7 @@
         },
         {
             "name": "Water Balloon Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Water_balloon_fish.png?a848e7",
+            "img_url": "static/images/fish/Water_balloon_fish.png",
             "location(s)": [
                 "The Tide Caverns (floors 21-39)"
             ],
@@ -1234,7 +1234,7 @@
     "Deep Earth": [
         {
             "name": "Earth Eel",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Earth_eel.png?f5214e",
+            "img_url": "static/images/fish/Earth_eel.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1247,7 +1247,7 @@
         },
         {
             "name": "Emerald Horned Charger",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Emerald_horned_charger.png?9a2e5a",
+            "img_url": "static/images/fish/Emerald_horned_charger.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1260,7 +1260,7 @@
         },
         {
             "name": "Pebble Minnow",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Pebble_minnow.png?9be875",
+            "img_url": "static/images/fish/Pebble_minnow.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1273,7 +1273,7 @@
         },
         {
             "name": "Rockbiter",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Rockbiter.png?3034db",
+            "img_url": "static/images/fish/Rockbiter.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1286,7 +1286,7 @@
         },
         {
             "name": "Shardfin",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Shardfin.png?730c00",
+            "img_url": "static/images/fish/Shardfin.png",
             "location(s)": [
                 "The Deep Earth (floors 41-59)"
             ],
@@ -1301,7 +1301,7 @@
     "Lava Caves": [
         {
             "name": "Armored Bass",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Armored_bass.png?9bf00a",
+            "img_url": "static/images/fish/Armored_bass.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1314,7 +1314,7 @@
         },
         {
             "name": "Candelabra Seadragon",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Candelabra_seadragon.png?e0aba6",
+            "img_url": "static/images/fish/Candelabra_seadragon.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1327,7 +1327,7 @@
         },
         {
             "name": "Firesail Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Firesail_fish.png?e7e4d7",
+            "img_url": "static/images/fish/Firesail_fish.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1340,7 +1340,7 @@
         },
         {
             "name": "Lava Piranha",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lava_piranha.png?e6cf9d",
+            "img_url": "static/images/fish/Lava_piranha.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1353,7 +1353,7 @@
         },
         {
             "name": "Sulfur Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Sulfur_crab.png?346f01",
+            "img_url": "static/images/fish/Sulfur_crab.png",
             "location(s)": [
                 "The Lava Caves (floors 61-79)"
             ],
@@ -1368,7 +1368,7 @@
     "Ruins": [
         {
             "name": "Winged Shrimp",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Winged_shrimp.png?c0f43e",
+            "img_url": "static/images/fish/Winged_shrimp.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1381,7 +1381,7 @@
         },
         {
             "name": "Gazer",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Gazer.png?89156e",
+            "img_url": "static/images/fish/Gazer.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1394,7 +1394,7 @@
         },
         {
             "name": "Luminescent Crab",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Luminescent_crab.png?56aa78",
+            "img_url": "static/images/fish/Luminescent_crab.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1407,7 +1407,7 @@
         },
         {
             "name": "Giant Jellyfish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Giant_jellyfish.png?7a27ca",
+            "img_url": "static/images/fish/Giant_jellyfish.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1420,7 +1420,7 @@
         },
         {
             "name": "Coelacanth",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Coelacanth.png?c9712e",
+            "img_url": "static/images/fish/Coelacanth.png",
             "location(s)": [
                 "The Ancient Ruins (floors 81-99)"
             ],
@@ -1435,7 +1435,7 @@
     "Legendary": [
         {
             "name": "Cherry Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Cherry_fish.png?9d7f67",
+            "img_url": "static/images/fish/Cherry_fish.png",
             "location(s)": [
                 "Pond"
             ],
@@ -1448,7 +1448,7 @@
         },
         {
             "name": "Leaf Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Leaf_fish.png?eec7e4",
+            "img_url": "static/images/fish/Leaf_fish.png",
             "location(s)": [
                 "River"
             ],
@@ -1461,7 +1461,7 @@
         },
         {
             "name": "Lightning Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Lightning_fish.png?cc0b25",
+            "img_url": "static/images/fish/Lightning_fish.png",
             "location(s)": [
                 "River"
             ],
@@ -1475,7 +1475,7 @@
         },
         {
             "name": "Snow Fish",
-            "img_url": "https://fieldsofmistria.wiki.gg/images/Snow_fish.png?7ca2e8",
+            "img_url": "static/images/fish/Snow_fish.png",
             "location(s)": [
                 "Ocean"
             ],
