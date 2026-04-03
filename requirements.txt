@@ -13,5 +13,6 @@ sqlmodel==0.0.37
 starlette==1.0.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
+pillow==12.2.0
 
-requests
+requests==2.33.1
