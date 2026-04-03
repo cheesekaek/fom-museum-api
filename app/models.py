@@ -18,8 +18,9 @@ class ItemSet(SQLModel, table=True):
                            primary_key=True)
     name: str = Field(index=True)
     # Relationship : wings
-    wing_id: int = Field(index=True,
-                         foreign_key="wing.id")  # id column in wing
+    wing_id: int | None = Field(default=None,
+                                index=True,
+                                foreign_key="wing.id")  # id column in wing
     wing: Wing = Relationship(back_populates="sets")
     # Relationship : items
     items: list["Item"] = Relationship(back_populates="item_set")
@@ -46,16 +47,16 @@ class Item(SQLModel, table=True):
                                       sa_column=Column(JSON))
     time: str | None = None
 
-    # Category (might remove this later)
-    category: str = Field(index=True)
     # Relationship : sets
-    set_id: int = Field(index=True,
-                        foreign_key="item_set.id")  # id column in item_set
+    set_id: int | None = Field(default=None,
+                               index=True,
+                               foreign_key="item_set.id")  # id column in item_set
     item_set: ItemSet = Relationship(back_populates="items")
 
 
 engine = create_engine("sqlite:///database.db", echo=True)
 
 
-def create_db():
+def create_db_and_tables():
+    SQLModel.metadata.drop_all(engine)
     SQLModel.metadata.create_all(engine)
