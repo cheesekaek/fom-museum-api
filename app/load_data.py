@@ -1,4 +1,6 @@
 import json
+
+from app.database import create_db_and_tables, engine
 from app.models import *
 from sqlmodel import Session
 
