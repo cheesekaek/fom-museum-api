@@ -54,9 +54,4 @@ class Item(SQLModel, table=True):
     item_set: ItemSet = Relationship(back_populates="items")
 
 
-engine = create_engine("sqlite:///database.db", echo=True)
 
-
-def create_db_and_tables():
-    SQLModel.metadata.drop_all(engine)
-    SQLModel.metadata.create_all(engine)
