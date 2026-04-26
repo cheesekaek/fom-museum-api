@@ -1,0 +1,80 @@
+.wings-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 per row */
+    gap: 20px;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto; /* center horizontally */
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5rem;   /* bigger text */
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* removes double borders */
+    margin-bottom: 30px;
+}
+
+th, td {
+    border: 1px solid #e9d8fd;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #e9d8fd;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f4ebff;
+}
+
+.sets-page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+td {
+    font-family: "Fredoka", sans-serif;
+    color: #686767;
+    vertical-align: top;
+}
+
+td img {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th {
+    color: #686767;
+}
+
+.wing-title {
+    font-family: "Pixelify Sans", sans-serif;
+    margin-top: 20px;
+    color: #686767;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.set-title {
+    font-family: "Pixelify Sans", sans-serif;
+    color: #686767;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin: 25px 0 10px;
+}
