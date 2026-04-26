@@ -52,8 +52,13 @@ insects-wing, fish-wing, archaeology-wing, flora-wing
 ---
 
 ## WIP (●'◡'●)
+* change image name in db with 's to just s
+* change json static to /static
+* load database with new img url /static
+* after change, change the frontend item row to just src={item.img}
 * Update ```GET \``` to include endpoints for the API routes
 * Frontend 💔
+* frontend ideas : each wing has a link back to home page
 * Possibly more API routes depending on how my frontend turns out
 
 ---

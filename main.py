@@ -2,10 +2,11 @@ import json
 from pathlib import Path
 from typing import Annotated
 
+from sqlalchemy.orm import selectinload
 from sqlmodel import Session, select
 from starlette.responses import JSONResponse
 
-from app.base_models import WingModel, ItemUpdate, ItemModel, IncludeSetItems, ItemSetModel
+from app.base_models import WingModel, ItemUpdate, ItemModel, ItemSetModel, WingModelExtra
 from app.database import get_session
 from app.models import Wing, Item, ItemSet
 from scrapers.fish_wing_scraper import scrape_fw
@@ -14,9 +15,17 @@ from scrapers.flora_wing_scraper import scrape_flw
 from scrapers.insects_wing_scraper import scrape_iw
 
 from fastapi import FastAPI, HTTPException, Depends, Query
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # your frontend
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ---------------------------------------------------
 # -------------------- API ROUTES -------------------
@@ -24,10 +33,8 @@ app = FastAPI()
 
 
 # -------------------- GET /wings --------------------
-@app.get("/wings", response_model=list[WingModel], description="Get a list of all wings, including sets or items, or both")
+@app.get("/wings", response_model=list[WingModel], description="Get a list of all wings")
 def get_wings(session: Session = Depends(get_session),
-              # toggle to include sets or items, or both
-              include: IncludeSetItems = Depends(),
               limit: Annotated[int, Query(ge=1, le=4)] = 4):
 
     wings = session.exec(select(Wing).limit(limit)).all()
@@ -40,36 +47,27 @@ def get_wings(session: Session = Depends(get_session),
             "id": wing.id,
             "name": wing.name,
         }
-
-        # if sets is set to True
-        if include.sets:
-            wing_data["sets"] = []
-            # set attributes
-            for s in wing.sets:
-                set_data = {
-                    "id": s.id,
-                    "name": s.name,
-                }
-                # if items is set to True
-                if include.items:
-                    # add each item to set
-                    set_data["items"] = [ItemModel.model_validate(item) for item in s.items]
-                # add each set to a wing
-                wing_data["sets"].append(set_data)
-
-        # if items is set to True
-        elif include.items:
-            wing_data["items"] = [
-                ItemModel.model_validate(item)
-                for s in wing.sets
-                for item in s.items
-            ]
-
         # add each wing to result
         result.append(wing_data)
 
     # return list
     return result
+
+# -------------------- GET /wings/{wings_id} -----------------------
+@app.get("/wings/{wing_id}", response_model=WingModelExtra, description="Get a specific wing with optional sets/items")
+def get_wing(
+        wing_id: int,
+        session: Session = Depends(get_session)):
+
+    wing = session.exec(select(Wing).where(Wing.id == wing_id).options(
+        selectinload(Wing.sets).
+        selectinload(ItemSet.items)
+    )).first()
+
+    if not wing:
+        raise HTTPException(status_code=404, detail="Wing not found")
+
+    return WingModelExtra.model_validate(wing)
 
 
 # ------------------ PATCH /items/{items_id} --------------------
