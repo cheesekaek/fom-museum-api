@@ -25,7 +25,7 @@ export function Home() {
     }
 
     return (
-        <div>
+        <div className = "page">
             <h1 className="title">Fields of Mistria Museum Tracker</h1>
             <div className="wings-container">
                 {wings.map((wing) =>

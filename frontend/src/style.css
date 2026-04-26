@@ -1,4 +1,5 @@
 .wings-container {
+    font-family: "Pixelify Sans", sans-serif;
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2 per row */
     gap: 20px;
@@ -7,12 +8,21 @@
     margin: 0 auto; /* center horizontally */
 }
 
+.page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  /* vertical center */
+    align-items: center;      /* horizontal center */
+}
+
 .title {
+    font-family: "Pixelify Sans", sans-serif;
     text-align: center;
     font-size: 2.5rem;   /* bigger text */
     font-weight: bold;
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 table {
@@ -59,6 +69,7 @@ table {
 
 th {
     color: #686767;
+    text-transform: capitalize;
 }
 
 .wing-title {
