@@ -21,11 +21,17 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 }
 
+def clean_filename(name: str) -> str:
+    return (
+        name
+        .replace("%27", "")
+    )
+
 for json_path, wing_name in all_wings:
     with open(json_path) as f:
         data = json.load(f)
 
-    IMAGES_DIR = Path(f"/static/images/{wing_name.lower()}")
+    IMAGES_DIR = Path(f"static/images/{wing_name.lower()}")
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
     for set_name, items in data.items(): # for every set
@@ -34,7 +40,8 @@ for json_path, wing_name in all_wings:
             if not url:
                 continue
 
-            img_filename = url.split("/")[-1].split("?")[0] # formatted like img_name.png
+            raw_filename = url.split("/")[-1].split("?")[0] # formatted like img_name.png
+            img_filename = clean_filename(raw_filename) # clean formatting issues
             dest = IMAGES_DIR / img_filename
             # if img already downloaded
             if dest.exists():

@@ -340,7 +340,7 @@
         },
         {
             "name": "Mermaid's Comb",
-            "img_url": "static/images/archaeology/Mermaid%27s_comb.png",
+            "img_url": "static/images/archaeology/Mermaids_comb.png",
             "location(s)": [
                 "Found whilst Diving (requires Sunken Secrets Skill)"
             ],
@@ -425,7 +425,7 @@
     "Upper Mines": [
         {
             "name": "Miner's Helmet",
-            "img_url": "static/images/archaeology/Miner%27s_helmet.png",
+            "img_url": "static/images/archaeology/Miners_helmet.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -434,7 +434,7 @@
         },
         {
             "name": "Miner's Pickaxe",
-            "img_url": "static/images/archaeology/Miner%27s_pickaxe.png",
+            "img_url": "static/images/archaeology/Miners_pickaxe.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -443,7 +443,7 @@
         },
         {
             "name": "Miner's Rucksack",
-            "img_url": "static/images/archaeology/Miner%27s_rucksack.png",
+            "img_url": "static/images/archaeology/Miners_rucksack.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
@@ -452,7 +452,7 @@
         },
         {
             "name": "Miner's Slab",
-            "img_url": "static/images/archaeology/Miner%27s_slab.png",
+            "img_url": "static/images/archaeology/Miners_slab.png",
             "location(s)": [
                 "The Upper Mines (floors 1 - 19)"
             ],
