@@ -24,7 +24,6 @@ fom-museum-api/
 ## To run this project
 
 ```bash
-python -m app.load_data
 uvicorn main:app --reload
 ```
 In another terminal, run
@@ -32,8 +31,10 @@ In another terminal, run
 cd frontend
 npm run dev
 ```
-Go to this link: http://localhost:5173/
-
+Go to this link: http://localhost:5173/  
+~ Preview of the webapp:
+<img src="repo_img/home.png" alt="description" width="800">
+<img src="repo_img/tables.png" alt="description" width="800">
 ---
 
 ## To generate the JSON datasets + img files
@@ -50,6 +51,11 @@ python scrapers/img_scraper.py
 ```
 This creates a folder called ```static/``` that contains the image files. It renames the value of 'img_url' in the JSON
 files (which are originally stored as URLs) to the location of these image files.
+```bash
+python -m app.load_data # to generate the database
+```
+~ This is what the database looks like (screenshot taken from DB Browser for SQLite)
+<img src="repo_img/db.png" alt="description" width="800">
 
 ---
 
