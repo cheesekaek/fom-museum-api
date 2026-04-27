@@ -35,6 +35,7 @@ Go to this link: http://localhost:5173/
 ~ Preview of the webapp:
 <img src="repo_img/home.png" alt="description" width="800">
 <img src="repo_img/tables.png" alt="description" width="800">
+
 ---
 
 ## To generate the JSON datasets + img files
